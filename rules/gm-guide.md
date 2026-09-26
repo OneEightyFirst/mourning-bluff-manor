@@ -1,8 +1,8 @@
 # GM Guide
 
-Procedural and tone guidance for running Gallows Way. `rules/core-rules.md` covers the mechanics; this file covers how to run a session with them. Nothing here overrides a mechanic in `core-rules.md` or a character detail in `cast/`.
+Procedural and tone guidance for running Mourning Bluff Manor. `rules/core-rules.md` covers the mechanics; this file covers how to run a session with them. Nothing here overrides a mechanic in `core-rules.md` or a character detail in `cast/`.
 
-## Enter Gallows Way
+## Enter Mourning Bluff Manor
 
 The visitors have come to spend one night inside an impossible New England mansion. Some were invited. Some were drawn here. Some have been looking for the house for years. Every one of them possesses a latent sense of what is about to happen.
 
@@ -11,6 +11,8 @@ The house has a hundred-plus rooms, although no plan agrees on where they belong
 The visitors are not here to defeat the house. They are here to uncover what they can, survive until escape becomes possible, and decide what they are willing to leave behind.
 
 A session will not traverse the whole manor. Expect a table to meaningfully visit somewhere between a dozen and twenty rooms in one sitting; the rest of the manuscript exists so the house can rearrange itself differently every time the group plays, and so no two tables walk the same route.
+
+That room-count estimate assumes a table of around five. Table size is flexible, and it does not change how much fiction a session can cover, it changes how that time is spent. With six or more players, expect fewer rooms per sitting, not more: spotlight time divides across more characters, group decisions take longer to land, and "one action at a time" (see Making a Test in `core-rules.md`) costs more real minutes per room. Plan for total playtime, not a target room count, and lean on the Spotlight Rhythm guidance below to keep a larger table moving.
 
 ## Building a mystery
 
@@ -41,7 +43,7 @@ Place at least three independent clues toward every conclusion, in different for
 
 The front doors should not open merely because time passed. Escape becomes possible after the visitors learn a meaningful truth, satisfy or break a pattern, surrender something the house values, or exploit the brief alignment created by The World. They may escape without solving everything.
 
-## Running Gallows Way
+## Running Mourning Bluff Manor
 
 **Describe before you explain.** Rooms should be detailed, tactile, and mostly plausible. Include several ordinary objects, one or two details that are slightly wrong, and multiple things that might become important. Do not announce the room's puzzle or prescribe its course. Let the players decide what deserves attention.
 

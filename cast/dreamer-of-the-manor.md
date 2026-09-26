@@ -2,7 +2,7 @@
 
 ## Bio
 
-You have walked the rooms of Mourning Bluff Manor in your dreams for months, recognizing people you have never met and always waking before you reach the same locked door. Recently the dreams changed: five visitors entered the house together, and one of them was you. When you discovered that an investigation was actually being organized, you contacted the others because you already knew where and when they would meet.
+You have walked the rooms of Mourning Bluff Manor in your dreams for months, recognizing people you have never met and always waking before you reach the same locked door. Recently the dreams changed: a group of visitors entered the house together, and one of them was you. When you discovered that an investigation was actually being organized, you contacted the others because you already knew where and when they would meet.
 
 ## What Is Established
 

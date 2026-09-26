@@ -4,7 +4,7 @@ Every essential conclusion should have at least three independent clues in diffe
 
 | Revelation | Physical clue | Documentary clue | Spirit or psychic clue | Status |
 | --- | --- | --- | --- | --- |
-| The Fellows operated in Gallows Way | Rook emblems, hidden meeting furniture, specialized equipment | Membership lists, minutes, correspondence | A manifestation calls a character "Fellow" or "Reader" | To write |
+| The Fellows operated in Mourning Bluff Manor | Rook emblems, hidden meeting furniture, specialized equipment | Membership lists, minutes, correspondence | A manifestation calls a character "Fellow" or "Reader" | To write |
 | Miriam financed the Fellows | Purpose-built rooms and costly instruments | Payments, construction orders, personal letters | Miriam repeats Ward's promise concerning her children | To write |
 | Readers were imprisoned | Locks facing outward, observation apertures, personal belongings | Medical charts, duty logs, censored names | A captive spirit reenacts an examination or escape | To write |
 | The Tower was central | Blackened circular masonry, wax, worn earth, buried personal effects | Lower Circle diagrams and experiment logs | Shared vision when the Tower's foundation or the Fellows' apparatus is engaged | To write |

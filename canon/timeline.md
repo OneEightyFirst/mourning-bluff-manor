@@ -26,14 +26,14 @@ This chronology contains settled dates and explicit gaps. Do not invent exact da
 
 *The Fellows disagreed over whether these were spirit photographs, double exposures, psychic projections, or images from another history. Ward treated them as evidence that Miriam could transmit visual information across possible futures.*
 
-- **Late nineteenth century:** Miriam funds repeated additions to Gallows Way and permits the Fellows to establish the Rookery and Lower Circle.
+- **Late nineteenth century:** Miriam funds repeated additions to Mourning Bluff Manor and permits the Fellows to establish the Rookery and Lower Circle.
 - **Late nineteenth century:** The Fellows progress from collecting psychic testimony to coercive experimentation upon Readers.
 
 ## Twentieth century
 
-- **1900:** Miriam Bellweather throws herself from the cliff behind Gallows Way during a winter storm. Her body is never recovered.
+- **1900:** Miriam Bellweather throws herself from the cliff behind Mourning Bluff Manor during a winter storm. Her body is never recovered.
 - **After 1900:** Ward gains control of the manor through disputed documents allegedly signed by Miriam.
-- **Date unresolved:** The Fellows conduct their final large-scale experiment in the Lower Circle. Multiple deaths and the central transformation of Gallows Way follow.
+- **Date unresolved:** The Fellows conduct their final large-scale experiment in the Lower Circle. Multiple deaths and the central transformation of Mourning Bluff Manor follow.
 - **1926, disputed:** A wedding photograph is catalogued as the marriage of Miriam's daughter, who would have been an adult by this date. Public records say that Miriam's children died decades earlier. The bride is not clearly visible, but the ballroom and several guests recur in other Bellweather and Fellows photographs. The photograph may record an unrealized history rather than an event that occurred in the accepted timeline.
 
 ![The disputed 1926 wedding reception](../assets/timeline/1926-impossible-wedding.jpg)
@@ -52,5 +52,5 @@ This chronology contains settled dates and explicit gaps. Do not invent exact da
 
 ## Present day
 
-- The Paranormal Investigator gathers the Cast at Gallows Way.
+- The player-chosen Organizer (see `cast/cast-index.md`) gathers the Cast at Mourning Bluff Manor. There is no fixed archetype for this role; the Paranormal Investigator referenced here previously was a discarded pre-Cast archetype and is not one of the ten current characters.
 - The reason, advertised objective, and immediate inciting evidence remain unresolved.

@@ -68,7 +68,7 @@ You have spent years listening to people describe grief, guilt, visions, and exp
 
 ## The Dreamer
 
-You have dreamed of Mourning Bluff Manor for months. Night after night you walk through its rooms, recognize people you have never met, and wake before reaching the same locked door. Recently the dreams changed: five visitors entered the house together, and one of them was you. When you discovered that an investigation was actually being organized, you contacted the others because you already knew where and when they would meet.
+You have dreamed of Mourning Bluff Manor for months. Night after night you walk through its rooms, recognize people you have never met, and wake before reaching the same locked door. Recently the dreams changed: a group of visitors entered the house together, and one of them was you. When you discovered that an investigation was actually being organized, you contacted the others because you already knew where and when they would meet.
 
 **Stats:** Nerve +3 | Notice +4 | Rapport +2 | Reason +1 | Vigor +0
 

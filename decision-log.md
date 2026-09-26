@@ -19,7 +19,7 @@
 - Blind Reach has been removed. Characters use their visible Premonitions normally unless one of their own Gifts, Weaknesses, or other explicit rules changes how they interact with their deck.
 - Players cannot withdraw from a declared test after hearing its Stat, Difficulty, and apparent danger; the former Withdrawing rule has been removed.
 - Whenever a Major Arcana activates, establish its house-wide Layer and then reset every character's Premonition. Its owner discards the Major and reveals the next card; all other characters discard their current Premonitions unused and reveal new ones. Finish the reset before resolving any additional Major it reveals.
-- The Cast contains ten available archetypes, of which five are chosen for play.
+- The Cast contains ten available archetypes. Table size is flexible: each player chooses a different one, up to all ten. (Supersedes an earlier fixed-five assumption; the actual table this is designed for runs with seven.)
 - **The Historical Archaeologist** replaces the Paranormal Investigator and the separate Archaeologist concept.
 - Architectural Historian, Urban Explorer, and Former Resident have been removed from the Cast.
 - **The Inheritor** replaces the Person Whose Name Appeared in a Document Written Before Their Birth.
@@ -58,7 +58,7 @@
 - Each Cast member has a background, five Stats, one mechanical Weakness rooted in internal conflict, one deck-manipulating Gift, one investigative Tool, and a blank Secret created by the player. The Secret must be concealed from the group and capable of causing conflict if exposed.
 - Every Weakness begins with one sentence explaining the character's internal motivation, followed by its explicit mechanical trigger and consequence.
 - Every Gift begins with a short first-person inner thought in italics that explains the character's relationship to the ability, followed by its mechanical rules.
-- After choosing the five Cast members, the players designate an eligible character as the **Organizer** who assembled the group. The Paramedic instead joined because one of the people entering the manor is their friend, without designating that character mechanically. Every combination of five therefore still contains four possible Organizers.
+- After choosing the Cast members, the players designate an eligible character as the **Organizer** who assembled the group. The Paramedic instead joined because one of the people entering the manor is their friend, without designating that character mechanically. Any combination of the other eligible characters can serve as Organizer.
 - The Historical Archaeologist received an anonymous box of previously unseen evidence establishing a new inheritor's ownership of Mourning Bluff Manor. The inheritor hired them to investigate and demonstrate that the manor is not haunted.
 - The Historical Archaeologist's Weakness, **Leave It Intact**, forces their next test to be made blindly after they deliberately damage or destroy part of Mourning Bluff Manor or one of its contents. Accidental damage and damage imposed as a consequence do not trigger it unless causing that damage was the declared action.
 - The Relative's Weakness, **Survivor's Guilt**, hides their Premonition whenever another character goes missing and keeps them drawing blindly until the group is reunited.
@@ -72,6 +72,11 @@
 - Grounding at zero (Unmoored) is locked: blind draws, GM may insert a House card on a failed test or Queen instead of removing more Grounding, and recovery requires an Ace or meaningful help in a place of safety. There is no Anchor mechanic. Anchor existed only in the discarded pre-Cast draft and does not apply to any of the ten current characters; any reference to it in older PDFs or scripts is a leftover and should be removed, not treated as canon.
 - House-card insertion distance is locked to current Grounding: 5-6 within the next six cards, 3-4 within the next four, 1-2 within the next two, 0 directly beneath the active card. Documented in `rules/core-rules.md`.
 - GM-facing procedural guidance (tone, room procedure, clue placement, escape conditions, pacing) is split out into `rules/gm-guide.md`, separate from the player-facing mechanics in `rules/core-rules.md`.
+- The rulebook cover title is **Mourning Bluff Manor**, with **669 Gallows Way** as an address-style subtitle beneath it. A version stamp (matching the git tag, e.g. `v0.1.0`) is printed on the cover and in the running footer of `build_booklet.py`'s output; bump the `VERSION` constant in that script whenever the rulebook content changes and a new tag is cut.
+- The 20 Major Arcana not drawn into a given player's personal deck during setup are set aside, unused, for the rest of that session. They are not added to the House Deck and do not return to that character's deck.
+- "Gallows Way" as a standalone name for the manor (as opposed to the address "669 Gallows Way") has been fully retired in favor of **Mourning Bluff Manor**, across the rulebook, `canon/`, `clues/clue-index.md`, and the room manuscript (`669-gallows-hill-way.md`, retitled internally to "Mourning Bluff Manor — Room Manuscript"; the filename itself was left unchanged).
+- `canon/timeline.md`'s "Present day" entry no longer names the discarded Paranormal Investigator as the person who gathers the Cast. It now points to the player-chosen Organizer (`cast/cast-index.md`), with no fixed archetype tied to that role.
+- The Cast profiles in `cast/*.md` are final. `cast/cast-index.md` no longer carries a partial draft rewrite of any character (the abandoned Historical Archaeologist Background/If You Gathered the Group/Role duplicate has been removed); the index only links out to and briefly describes the structure of the authoritative files.
 
 ## Provisional
 

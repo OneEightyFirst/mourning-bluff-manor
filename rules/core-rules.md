@@ -1,6 +1,6 @@
 # Core Rules
 
-This is the single source of truth for how Gallows Way plays. `build_booklet.py` renders this file (plus a roster pulled live from `cast/`) into the printable rulebook. If a generated PDF and this file ever disagree, this file is correct, regenerate the PDF.
+This is the single source of truth for how Mourning Bluff Manor plays. `build_booklet.py` renders this file (plus a roster pulled live from `cast/`) into the printable rulebook. If a generated PDF and this file ever disagree, this file is correct, regenerate the PDF.
 
 Where mechanics here reference the Cast, the ten profiles in `cast/*.md` are the authoritative source for any character-specific detail (Stats, Weakness, Gift, Tool). Nothing in this document should describe a Cast ability that isn't written in `cast/`.
 
@@ -10,7 +10,7 @@ One light-backed Tarot deck for each player, one contrasting dark-backed Tarot d
 
 ## Tone
 
-Gallows Way is exploratory horror for one GM and 3-6 players (five Cast members chosen from the ten in `cast/`, plus the GM). Violence may occur, but combat is never the assumed solution. The house is the principal threat: stairs, locks, furniture, memories, etiquette, architecture, and ordinary accidents become its weapons. Avoid conventional monsters attacking on cue, the house's own fabric is scarier and more consistent with its established nature.
+Mourning Bluff Manor is exploratory horror for one GM and a flexible group of players (each player chooses a different member of the Cast; `cast/` currently holds ten). Violence may occur, but combat is never the assumed solution. The house is the principal threat: stairs, locks, furniture, memories, etiquette, architecture, and ordinary accidents become its weapons. Avoid conventional monsters attacking on cue, the house's own fabric is scarier and more consistent with its established nature.
 
 ## Before play
 
@@ -21,7 +21,7 @@ Each player chooses one member of the Cast. Give every character six Grounding t
 1. Separate the 22 Major Arcana from the 56 Minor Arcana.
 2. Shuffle the Major Arcana and draw two without looking at them.
 3. Shuffle those two cards into the Minor Arcana.
-4. Set the remaining Major Arcana aside.
+4. Set the remaining Major Arcana aside, face down, out of play. They do not return to this character's deck this session; only the two drawn in step 2 can appear.
 5. Place the deck face down and turn its top card face up.
 
 The face-up top card is that character's **Premonition**. Everyone may see it. Whenever it is used or discarded, reveal the next card immediately. Routine actions do not consume cards; a Premonition is discarded only by a test, an ability, a Major effect, or an explicit consequence. Waiting does not make an unwanted future disappear.
@@ -142,9 +142,9 @@ Each Cast member has +4, +3, +2, +1, and +0 assigned once each across the five S
 | Queen | Automatic success | Lose 1 Grounding |
 | King | 19 | None |
 
-An Ace succeeds spectacularly regardless of Stat or Difficulty and returns one Grounding bead to the character, up to their starting maximum.
+An Ace succeeds cleanly regardless of Stat or Difficulty, no consequence, and returns one Grounding bead to the character, up to their starting maximum.
 
-A Queen succeeds regardless of Stat or Difficulty, but the vision costs something vital: move one Grounding bead into the pool after resolving the action.
+A Queen also succeeds cleanly regardless of Stat or Difficulty, no consequence, but the vision costs something vital: move one Grounding bead into the pool after resolving the action.
 
 A King is not automatic. Treat it as 19 and add the Stat normally; this distinction matters if the house imposes an exceptional Difficulty or penalty.
 
@@ -249,7 +249,7 @@ A Tool can be used in any way the physical object reasonably permits. Its descri
 
 ## The Cast
 
-The one-shot uses ten premade archetypes, without fixed names, genders, or appearances, of which five are chosen for play. Each has a Bio, five Stats, a Weakness rooted in internal conflict, a Gift that manipulates their deck, an investigative Tool, and a blank Secret the player creates and conceals from the rest of the group.
+The one-shot uses ten premade archetypes, without fixed names, genders, or appearances. Each player chooses a different one; table size is flexible, not fixed at five. Each has a Bio, five Stats, a Weakness rooted in internal conflict, a Gift that manipulates their deck, an investigative Tool, and a blank Secret the player creates and conceals from the rest of the group.
 
 The full roster, selection rules, and the Organizer procedure live in `cast/cast-index.md`. **`cast/*.md` is the single source of truth for every character-specific rule.** This document and any generated PDF only render what is written there; if a PDF ever shows a Gift, Weakness, or Tool that doesn't match the relevant `cast/*.md` file, the Markdown file is correct.
 

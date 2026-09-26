@@ -20,6 +20,7 @@ from reportlab.lib.units import inch
 from reportlab.platypus import (
     BaseDocTemplate,
     Frame,
+    KeepTogether,
     PageBreak,
     PageTemplate,
     Paragraph,
@@ -30,7 +31,10 @@ from reportlab.platypus import (
 
 
 ROOT = Path(__file__).resolve().parent
-OUTPUT = ROOT / "output" / "pdf" / "669-gallows-way-booklet.pdf"
+OUTPUT = ROOT / "output" / "pdf" / "mourning-bluff-manor-booklet.pdf"
+
+# Bump this alongside the git tag whenever the rulebook content changes.
+VERSION = "v0.1.0"
 
 CAST_FILES = [
     "historical-archaeologist.md",
@@ -226,6 +230,26 @@ def render_markdown(text, s, heading_break_level=None):
     return story
 
 
+HEADING_STYLE_NAMES = {"H1", "H2", "H3"}
+
+
+def keep_headings_with_next(story):
+    """Wrap each heading with whatever follows it so a heading can never be
+    stranded alone at the bottom of a page, whichever section it lands in."""
+    result = []
+    i = 0
+    while i < len(story):
+        item = story[i]
+        is_heading = isinstance(item, Paragraph) and getattr(item.style, "name", None) in HEADING_STYLE_NAMES
+        if is_heading and i + 1 < len(story) and not isinstance(story[i + 1], PageBreak):
+            result.append(KeepTogether([item, story[i + 1]]))
+            i += 2
+            continue
+        result.append(item)
+        i += 1
+    return result
+
+
 def styles(doc_width):
     return {
         "_doc_width": doc_width,
@@ -240,6 +264,7 @@ def styles(doc_width):
         "cover_title": ParagraphStyle("CoverTitle", fontName="Times-Bold", fontSize=30, leading=34, textColor=INK, alignment=TA_CENTER),
         "cover_tag": ParagraphStyle("CoverTag", fontName="Helvetica", fontSize=10.5, leading=15, textColor=MUTED, alignment=TA_CENTER, spaceBefore=14),
         "cover_kicker": ParagraphStyle("CoverKicker", fontName="Helvetica-Bold", fontSize=8, leading=10, textColor=RUST, alignment=TA_CENTER, tracking=1.5, spaceBefore=18),
+        "cover_address": ParagraphStyle("CoverAddress", fontName="Helvetica", fontSize=11.5, leading=15, textColor=RUST, alignment=TA_CENTER, spaceBefore=4),
         "roster_title": ParagraphStyle("RosterTitle", fontName="Times-Bold", fontSize=13, leading=15, textColor=INK, spaceBefore=10, spaceAfter=2),
         "roster_stats": ParagraphStyle("RosterStats", fontName="Helvetica-Bold", fontSize=8.2, leading=10, textColor=RUST, spaceAfter=2),
         "roster_bio": ParagraphStyle("RosterBio", fontName="Times-Roman", fontSize=8.4, leading=10.6, textColor=INK, spaceAfter=8),
@@ -266,7 +291,7 @@ def draw_page(canvas, doc):
     canvas.setFont("Helvetica", 7.2)
     canvas.setFillColor(MUTED)
     canvas.drawString(0.65 * inch, 0.28 * inch, "MOURNING BLUFF MANOR")
-    canvas.drawRightString(letter[0] - 0.65 * inch, 0.28 * inch, f"669 GALLOWS WAY | {doc.page}")
+    canvas.drawRightString(letter[0] - 0.65 * inch, 0.28 * inch, f"669 GALLOWS WAY | {VERSION} | {doc.page}")
     canvas.restoreState()
 
 
@@ -279,7 +304,7 @@ def build():
         rightMargin=0.72 * inch,
         topMargin=0.55 * inch,
         bottomMargin=0.65 * inch,
-        title="669 Gallows Way: Rulebook",
+        title="Mourning Bluff Manor: Rulebook",
         author="Michael Wells",
         subject="Core rules, GM guide, and Cast roster",
     )
@@ -290,13 +315,14 @@ def build():
     story = []
 
     # Cover
-    story.append(Spacer(1, 1.6 * inch))
-    story.append(Paragraph("669", s["cover_kicker"]))
-    story.append(Paragraph("GALLOWS WAY", s["cover_title"]))
+    story.append(Spacer(1, 1.5 * inch))
+    story.append(Paragraph("MOURNING BLUFF MANOR", s["cover_title"]))
+    story.append(Paragraph("669 Gallows Way", s["cover_address"]))
     story.append(Paragraph("A Tarot Horror Mystery", s["cover_tag"]))
     story.append(Paragraph("You have already seen what comes next. You simply do not know what it means.", s["cover_tag"]))
     story.append(Spacer(1, 0.4 * inch))
-    story.append(Paragraph("A one-session game for one GM and 3-6 players.", s["cover_tag"]))
+    story.append(Paragraph("A one-session game for one GM and a flexible group of players.", s["cover_tag"]))
+    story.append(Paragraph(f"Rulebook {VERSION}", s["cover_kicker"]))
     story.append(PageBreak())
 
     # Core rules
@@ -312,10 +338,10 @@ def build():
     # Cast roster (compact; full dossiers live in the character-profiles PDF)
     story.append(Paragraph("The Cast", s["h1"]))
     story.append(Paragraph(
-        "Ten premade archetypes; five are chosen for play. Each has a Bio, five Stats, a Weakness, a Gift, "
-        "a Tool, and a player-created Secret. This roster is a quick reference only, full dossiers are in "
-        "<i>Mourning Bluff Manor Character Profiles</i>, and individual print-and-play packets exist for the "
-        "characters currently offered as a selected set.",
+        "Ten premade archetypes; each player chooses a different one, and table size is flexible. Each has a "
+        "Bio, five Stats, a Weakness, a Gift, a Tool, and a player-created Secret. This roster is a quick "
+        "reference only, full dossiers are in <i>Mourning Bluff Manor Character Profiles</i>, and individual "
+        "print-and-play packets exist for the characters currently offered as a selected set.",
         s["body"],
     ))
     for filename in CAST_FILES:
@@ -329,11 +355,11 @@ def build():
     story.append(Paragraph("THE HOUSE HAS SEEN YOU COMING.", s["cover_tag"]))
     story.append(Paragraph(
         "Premonitions reveal the value of the next card, but never the moment that will demand it. "
-        "Spend certainty carefully. Gallows Way is always arranging another room.",
+        "Spend certainty carefully. Mourning Bluff Manor is always arranging another room.",
         s["cover_tag"],
     ))
 
-    doc.build(story)
+    doc.build(keep_headings_with_next(story))
     return OUTPUT
 
 
