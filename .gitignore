@@ -1,0 +1,11 @@
+# Python build environment
+.venv/
+__pycache__/
+*.pyc
+
+# OS cruft
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
