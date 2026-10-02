@@ -92,11 +92,27 @@ The spirits are therefore not a united force. Some manifestations want the Fello
 
 ## The night everything failed
 
-The Fellows eventually conducted a final large-scale experiment in the Lower Circle. Multiple Readers were connected through a ritual intended to produce a stable, shared vision of the future.
+Ward and four other Fellows conducted the final, large-scale experiment in the Lower Circle: five Readers connected through a working meant to hold every possible future at once, so that no one who ever entered Mourning Bluff Manor again would suffer a tragedy they hadn't already foreseen and survived.
 
-The experiment failed catastrophically. People died throughout the manor, the architecture became unstable, and the intelligence associated with the Tower gained lasting access to Mourning Bluff Manor.
+Partway through, one of the other four Fellows realized the working was not producing foresight at all. Something already old and hostile, sealed within or beneath the Tower long before the Fellows ever arrived, was using the ritual as a way through into the world. That Fellow broke the circle deliberately, to stop it.
 
-The exact date, number of participants, identities of the dead, sequence of events, and Ward's intended question remain unresolved design decisions. These must be fixed before constructing the central clue chain.
+Breaking the circle did not stop the ritual and did not complete it. It froze the working at the exact moment of interruption, but not evenly. Ward and the three other Fellows besides Edmund were caught inside that moment and have been reliving it ever since, forever finishing, forever being stopped, landing on neither. A century of repetition has worn them thin: they now appear gaunt, half-transparent, more afterimage than person, running the ritual's motions over and over. Edmund, the one who physically broke the circle, did not get caught in the loop with them. He died then, for real, the instant he wiped his hand through the chalk pentagram to break it. What remains of him is a skeleton, still positioned at the edge of the circle where he fell, the smeared chalk line still visible beneath him. The other four loop around him endlessly and do not, or cannot, acknowledge the body in the room with them.
+
+The house's instability, its overlapping rooms, its repeated and contradictory events, radiates outward from that one frozen, unevenly shared instant, over and over, a century deep.
+
+The intelligence associated with the Tower did not fully get through. It has had a century to keep trying. It still needs clairvoyant minds to finish what the original ritual almost let in.
+
+**The intelligence itself** does not experience time the way a person does. It perceives past, present, and future at once, which is why it can answer a question before it is asked (see the spirit lamp's history, Room 076/097 in `669-gallows-hill-way.md`) and why Edmund could no longer convince himself the ritual was producing foresight at all rather than something older wearing the shape of an answer. It wants what it has always wanted: a clairvoyant mind, or several, to occupy permanently, since it has no fixed position in time of its own and cannot otherwise hold a lasting place in the world. The Fellows never recorded what they believed its true name to be, if it has one. Ward's own papers refer to it only by an epithet, **the Unasked Question**.
+
+The Fellow who broke the circle was **Edmund** (see his recorded doubts in Ward's diary, Room 097, `669-gallows-hill-way.md`).
+
+## The missing mirrors
+
+Every mirror the Fellows could locate was deliberately removed from Mourning Bluff Manor, not merely covered. Publicly, this is remembered, when it's remembered at all, as an old mourning custom taken too far: covering (and eventually removing) mirrors after a death so the departed soul cannot be trapped in the glass.
+
+The real reason is that the Fellows discovered, likely too late, that the intelligence associated with the Tower could see through reflective surfaces and use them to imitate people, rooms, and remembered events with unusual precision. Removing every mirror in the house was an attempt to blind it, or at least to deny it an easy vantage. The attempt was incomplete: it did not banish the intelligence, and other reflective surfaces (polished brass, still water, dark glass) still carry traces of the same effect throughout the house.
+
+Exactly one true mirror remains, deliberately kept back rather than destroyed, because the Fellows' ritual required one. It waits, easy to overlook, in plain sight on the vanity in Room 006, the one vanity whose own built-in mirror was removed along with all the others.
 
 ## What is publicly believed
 
@@ -124,15 +140,14 @@ Players should be able to discover, through multiple independent clues, that:
 
 ## Unresolved canon
 
-The following questions must be answered before the one-shot plot is complete:
+The following remain genuinely open:
 
-- What exactly happened during the final experiment?
-- Who died, and which spirits remain active?
-- What does the intelligence ultimately want?
-- Why has the Cast been gathered on this particular night?
-- What concrete objective brings them into the manor?
-- What must they accomplish to escape?
 - What happened to Miriam's husband and children?
 - Did Miriam jump willingly, under supernatural influence, or because the Fellows forced her toward it?
 - What was removed from Miriam's final will?
-- Is Lucius Ward dead, missing, trapped, or present in another form?
+
+**Deliberately left open, not a gap:** why the Cast has been gathered this particular night, and what concrete objective brings them into the manor. Per `rules/gm-guide.md`'s own framing, this is meant to be established per table, not fixed as a single canonical answer.
+
+**Deliberately unresolved by design:** why the anonymous sender gave the Historical Archaeologist the box (`cast/historical-archaeologist.md`). This stays a permanent mystery, not something to solve later.
+
+**Resolved this session:** what happened during the final experiment, why the intelligence still needs Readers, and Ward's present state (see "The night everything failed," above). The present state of the other three looped Fellows and Edmund's fate (see above). The intelligence's nature and want (see "The night everything failed," above; the Fellows' epithet for it was **the Unasked Question**). What must be accomplished to escape (see the three endings, `decision-log.md`). The Inheritor is confirmed as the default/presumed Organizer, tied to their existing "who did you personally ask to come" prompt (GM-only note, `decision-log.md`; no change made to `cast/inheritor.md` or `cast/cast-index.md`).

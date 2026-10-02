@@ -26,19 +26,20 @@ from reportlab.platypus import (
     Spacer,
     Table,
     TableStyle,
+    TopPadder,
 )
 
 
 ROOT = Path(__file__).resolve().parent
 OUTPUT_DIR = ROOT / "output" / "pdf" / "selected-characters"
 
-PAPER = colors.HexColor("#F4EFE5")
-INK = colors.HexColor("#241E1A")
-MUTED = colors.HexColor("#6E6257")
-RUST = colors.HexColor("#7B342C")
-RULE = colors.HexColor("#B9AA96")
-PANEL = colors.HexColor("#E8DED0")
-PALE = colors.HexColor("#EEE6DA")
+PAPER = colors.white
+INK = colors.black
+MUTED = colors.HexColor("#555555")
+RUST = colors.black
+RULE = colors.HexColor("#999999")
+PANEL = colors.HexColor("#EDEDED")
+PALE = colors.HexColor("#F5F5F5")
 
 # Slug -> source Markdown file in cast/. This is the only place the roster of
 # "currently offered" packets is decided; everything else is parsed.
@@ -105,9 +106,6 @@ def draw_page(character_title):
         canvas.saveState()
         canvas.setFillColor(PAPER)
         canvas.rect(0, 0, letter[0], letter[1], stroke=0, fill=1)
-        canvas.setStrokeColor(RUST)
-        canvas.setLineWidth(1.2)
-        canvas.line(0.62 * inch, 0.48 * inch, 7.88 * inch, 0.48 * inch)
         canvas.setFont("Helvetica", 7.2)
         canvas.setFillColor(MUTED)
         canvas.drawString(0.65 * inch, 0.28 * inch, "MOURNING BLUFF MANOR")
@@ -117,19 +115,24 @@ def draw_page(character_title):
     return _draw
 
 
-def styles():
+def styles(compact=False):
+    body_size = 8.0 if compact else 8.35
+    small_size = 7.55 if compact else 7.8
+    prompt_size = 7.65 if compact else 7.9
+    reference_size = 6.75 if compact else 6.9
     return {
         "title": ParagraphStyle("Title", fontName="Times-Bold", fontSize=20, leading=22, textColor=INK, alignment=TA_CENTER, spaceAfter=2),
         "kicker": ParagraphStyle("Kicker", fontName="Helvetica-Bold", fontSize=6.4, leading=7.2, tracking=1.6, textColor=RUST, alignment=TA_CENTER, spaceAfter=7),
         "section": ParagraphStyle("Section", fontName="Helvetica-Bold", fontSize=8.0, leading=9.2, textColor=RUST, spaceBefore=6, spaceAfter=2),
-        "body": ParagraphStyle("Body", fontName="Times-Roman", fontSize=8.0, leading=9.7, textColor=INK, alignment=TA_LEFT, spaceAfter=3),
+        "body": ParagraphStyle("Body", fontName="Times-Roman", fontSize=body_size, leading=body_size + 1.7, textColor=INK, alignment=TA_LEFT, spaceAfter=3),
         "lead": ParagraphStyle("Lead", fontName="Times-Roman", fontSize=9.2, leading=11.2, textColor=INK, alignment=TA_LEFT, spaceAfter=8),
-        "small": ParagraphStyle("Small", fontName="Times-Roman", fontSize=7.55, leading=8.95, textColor=INK, alignment=TA_LEFT, spaceAfter=2),
-        "prompt": ParagraphStyle("Prompt", fontName="Times-Italic", fontSize=7.65, leading=9.15, textColor=colors.HexColor("#4D4037"), leftIndent=8, firstLineIndent=-5, spaceAfter=3),
+        "small": ParagraphStyle("Small", fontName="Times-Roman", fontSize=small_size, leading=small_size + 1.4, textColor=INK, alignment=TA_LEFT, spaceAfter=2),
+        "prompt": ParagraphStyle("Prompt", fontName="Times-Italic", fontSize=prompt_size, leading=prompt_size + 1.5, textColor=colors.HexColor("#4D4037"), leftIndent=8, firstLineIndent=-5, spaceAfter=3),
         "stats": ParagraphStyle("Stats", fontName="Helvetica-Bold", fontSize=7.75, leading=9.2, textColor=INK, alignment=TA_CENTER),
         "quote": ParagraphStyle("Quote", fontName="Times-Italic", fontSize=7.55, leading=8.95, textColor=colors.HexColor("#4D4037"), leftIndent=0, spaceAfter=2),
-        "secret": ParagraphStyle("Secret", fontName="Times-Roman", fontSize=7.4, leading=8.8, textColor=MUTED, spaceAfter=2),
-        "reference": ParagraphStyle("Reference", fontName="Helvetica", fontSize=6.75, leading=8.0, textColor=INK, spaceAfter=4),
+        "secret": ParagraphStyle("Secret", fontName="Times-Roman", fontSize=7.65, leading=9.1, textColor=MUTED, spaceAfter=2),
+        "secret_line": ParagraphStyle("SecretLine", fontName="Helvetica", fontSize=7.2, leading=9.0, textColor=RULE, spaceAfter=0),
+        "reference": ParagraphStyle("Reference", fontName="Helvetica", fontSize=reference_size, leading=reference_size + 1.25, textColor=INK, spaceAfter=4),
         "stat_ref_name": ParagraphStyle("StatRefName", fontName="Helvetica-Bold", fontSize=7.0, leading=8.0, textColor=RUST, alignment=TA_CENTER, spaceAfter=3),
         "stat_ref_body": ParagraphStyle("StatRefBody", fontName="Helvetica", fontSize=6.35, leading=7.45, textColor=INK, alignment=TA_CENTER),
     }
@@ -152,6 +155,15 @@ def add_heading(story, text, style):
     story.append(Paragraph(text.upper(), style))
 
 
+def stack_height(flowables, width):
+    """Estimate the rendered height of a vertical flowable stack."""
+    total = 0
+    for flowable in flowables:
+        _, height = flowable.wrap(width, 10_000)
+        total += flowable.getSpaceBefore() + height + flowable.getSpaceAfter()
+    return total
+
+
 def build_packet(slug, source_filename):
     title, sections = parse_profile(ROOT / "cast" / source_filename)
     output = OUTPUT_DIR / f"mourning-bluff-manor-{slug}.pdf"
@@ -169,12 +181,15 @@ def build_packet(slug, source_filename):
     )
     frame = Frame(doc.leftMargin, doc.bottomMargin, doc.width, doc.height, leftPadding=0, rightPadding=0, topPadding=0, bottomPadding=0)
     doc.addPageTemplates([PageTemplate(id="packet", frames=[frame], onPage=draw_page(title))])
-    s = styles()
+    # The Dreamer carries substantially more character-specific rules than the
+    # other packets. Keep its established compact setting; use a slightly more
+    # generous reading size everywhere that the content permits it.
+    compact = slug == "dreamer"
+    s = styles(compact=compact)
     stats = sections["Stats"][0].replace("**", "")
 
     opening = f"You are <b>{title}</b>. " + " ".join(sections["Bio"])
-    identity_note = "Your name, age, gender, appearance, occupation, relationships, and personal history are yours unless established above."
-    fixed = " ".join(sections["What Is Established"]) + " " + identity_note
+    fixed = " ".join(sections["What Is Established"])
     custom = " ".join(sections["Make the Character Your Own"])
     questions = [strip_bullet(q) for q in sections["Decide Before Play"]]
 
@@ -194,7 +209,7 @@ def build_packet(slug, source_filename):
     for question in questions:
         left_column.append(Paragraph(f"- {question}", s["prompt"]))
 
-    right_column = []
+    section_blocks = []
     for heading, paragraphs in sections.items():
         if heading in {"Bio", "Stats", *REQUIRED_SECTIONS}:
             continue
@@ -208,7 +223,31 @@ def build_packet(slug, source_filename):
             else:
                 paragraph_style = s["small"]
             block.append(Paragraph(paragraph, paragraph_style))
-        right_column.extend(block)
+        if heading == "Secret":
+            # Leave an actual place to begin writing instead of presenting only
+            # an instruction. The Dreamer's denser rules support one line; the
+            # other packets have room for two.
+            line_count = 1 if compact else 2
+            for _ in range(line_count):
+                block.append(Paragraph("_" * 48, s["secret_line"]))
+        section_blocks.append(block)
+
+    # Choose one reading-order split between complete sections. Identity and
+    # customization remain first in the left column; the character mechanics
+    # may continue beneath them when that produces a more even page. Secret
+    # always remains in the right column. No section is divided between columns.
+    column_content_width = doc.width / 2 - 13
+    candidates = []
+    for split_at in range(len(section_blocks)):
+        candidate_left = left_column + [item for block in section_blocks[:split_at] for item in block]
+        candidate_right = [item for block in section_blocks[split_at:] for item in block]
+        left_height = stack_height(candidate_left, column_content_width)
+        right_height = stack_height(candidate_right, column_content_width)
+        candidates.append((abs(left_height - right_height), max(left_height, right_height), split_at))
+
+    _, _, split_at = min(candidates)
+    left_column.extend(item for block in section_blocks[:split_at] for item in block)
+    right_column = [item for block in section_blocks[split_at:] for item in block]
 
     columns = Table(
         [[left_column, right_column]],
@@ -227,7 +266,8 @@ def build_packet(slug, source_filename):
     ]))
     story.append(columns)
 
-    add_heading(story, "Quick play reference", s["section"])
+    quick_reference = []
+    add_heading(quick_reference, "Quick play reference", s["section"])
     reference_left = [
         Paragraph(
             "<b>Tests.</b> Use your active Premonition, add the named Stat, and compare the total with the Difficulty. "
@@ -235,7 +275,7 @@ def build_packet(slug, source_filename):
             s["reference"],
         ),
         Paragraph(
-            "<b>Minor cards.</b> Ace: critical success and regain 1 Grounding. Page 11. Knight 12. Queen: automatic success and lose 1 Grounding. King 19.",
+            "<b>Minor cards.</b> Ace: critical success and regain 1 Grounding. Page 11. Knight 12. Queen: automatic success and lose 1 Grounding. King: critical failure and lose 1 Grounding.",
             s["reference"],
         ),
     ]
@@ -264,7 +304,7 @@ def build_packet(slug, source_filename):
         ("LEFTPADDING", (0, 0), (-1, -1), 7),
         ("RIGHTPADDING", (0, 0), (-1, -1), 7),
     ]))
-    story.append(ref)
+    quick_reference.append(ref)
 
     stat_definitions = [
         ("NERVE", "Endurance, courage, and sanity"),
@@ -288,7 +328,19 @@ def build_packet(slug, source_filename):
         ("LEFTPADDING", (0, 0), (-1, -1), 5),
         ("RIGHTPADDING", (0, 0), (-1, -1), 5),
     ]))
-    story.append(stat_ref)
+    quick_reference.append(stat_ref)
+
+    # A one-cell table keeps the heading, rules box, and stat strip indivisible.
+    # TopPadder then expands only the space above that single grouped object.
+    bottom_group = Table([[quick_reference]], colWidths=[doc.width], hAlign="LEFT")
+    bottom_group.setStyle(TableStyle([
+        ("VALIGN", (0, 0), (-1, -1), "TOP"),
+        ("LEFTPADDING", (0, 0), (-1, -1), 0),
+        ("RIGHTPADDING", (0, 0), (-1, -1), 0),
+        ("TOPPADDING", (0, 0), (-1, -1), 0),
+        ("BOTTOMPADDING", (0, 0), (-1, -1), 0),
+    ]))
+    story.append(TopPadder(bottom_group))
 
     doc.build(story)
     return output

@@ -42,7 +42,7 @@ Do not shuffle your discard pile. If the newly revealed card is a Major Arcana, 
 
 ## Tool: Skeleton Key
 
-*You carry a long iron skeleton key with an oval bow, a narrow shaft, and uneven teeth polished bright from use. A faded paper tag tied to it reads 669 WIDOW'S WALK, MOURNING BLUFF, MAINE.*
+*You carry a long iron skeleton key with an oval bow, a narrow shaft, and uneven teeth polished bright from use. A faded paper tag tied to it reads 669 GALLOWS WAY, MOURNING BLUFF, MAINE.*
 
 The key was included with the estate papers. It fits many of the manor's original interior locks and may be used in any other way a small metal key reasonably permits.
 

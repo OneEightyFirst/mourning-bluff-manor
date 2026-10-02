@@ -318,10 +318,8 @@ def build():
     story.append(Spacer(1, 1.5 * inch))
     story.append(Paragraph("MOURNING BLUFF MANOR", s["cover_title"]))
     story.append(Paragraph("669 Gallows Way", s["cover_address"]))
-    story.append(Paragraph("A Tarot Horror Mystery", s["cover_tag"]))
     story.append(Paragraph("You have already seen what comes next. You simply do not know what it means.", s["cover_tag"]))
     story.append(Spacer(1, 0.4 * inch))
-    story.append(Paragraph("A one-session game for one GM and a flexible group of players.", s["cover_tag"]))
     story.append(Paragraph(f"Rulebook {VERSION}", s["cover_kicker"]))
     story.append(PageBreak())
 

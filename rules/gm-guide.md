@@ -63,7 +63,7 @@ The front doors should not open merely because time passed. Escape becomes possi
 
 **Difficulty.** 8 favorable | 10 risky | 12 severe | 14 extraordinary.
 
-**Minor Arcana.** Ace: critical + regain Grounding | Page 11 | Knight 12 | Queen: automatic + lose Grounding | King 19.
+**Minor Arcana.** Ace: critical success + regain Grounding | Page 11 | Knight 12 | Queen: automatic success + lose Grounding | King: critical failure + lose Grounding.
 
 **House cards by Grounding.** 5-6: next six | 3-4: next four | 1-2: next two | 0: directly beneath.
 
