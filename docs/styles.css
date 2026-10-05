@@ -9,6 +9,12 @@
   --plot: #c89b3c;
   --plot-bg: #3a2c12;
   --border: #3a322c;
+  --item: #c0463f;
+  --item-bg: #3a1815;
+  --clue: #c9b23c;
+  --clue-bg: #3a3412;
+  --gate: #9b6fd1;
+  --gate-bg: #2a2038;
   font-family: "Iowan Old Style", "Palatino Linotype", Georgia, serif;
 }
 
@@ -99,10 +105,22 @@ body {
   color: var(--muted);
 }
 
-.legend-chip.plot-chip {
-  border-color: var(--plot);
-  background: var(--plot-bg);
-  color: var(--plot);
+.legend-chip.item-chip {
+  border-color: var(--item);
+  background: var(--item-bg);
+  color: var(--item);
+}
+
+.legend-chip.clue-chip {
+  border-color: var(--clue);
+  background: var(--clue-bg);
+  color: var(--clue);
+}
+
+.legend-chip.gate-chip {
+  border-color: var(--gate);
+  background: var(--gate-bg);
+  color: var(--gate);
 }
 
 #floors, #cast-grid-wrap {
@@ -162,18 +180,46 @@ body {
   margin-top: 0.15rem;
 }
 
-.room-btn.plot-item {
-  background: var(--plot-bg);
-  border-color: var(--plot);
+.room-btn.item-room {
+  background: var(--item-bg);
+  border-color: var(--item);
 }
 
-.room-btn.plot-item .room-num {
-  color: var(--plot);
+.room-btn.item-room .room-num {
+  color: var(--item);
 }
 
-.room-btn.plot-item:hover,
-.room-btn.plot-item:focus-visible {
-  border-color: #e4bf6a;
+.room-btn.item-room:hover,
+.room-btn.item-room:focus-visible {
+  border-color: #e07d76;
+}
+
+.room-btn.clue-room {
+  background: var(--clue-bg);
+  border-color: var(--clue);
+}
+
+.room-btn.clue-room .room-num {
+  color: var(--clue);
+}
+
+.room-btn.clue-room:hover,
+.room-btn.clue-room:focus-visible {
+  border-color: #e4d66a;
+}
+
+.room-btn.gate-room {
+  background: var(--gate-bg);
+  border-color: var(--gate);
+}
+
+.room-btn.gate-room .room-num {
+  color: var(--gate);
+}
+
+.room-btn.gate-room:hover,
+.room-btn.gate-room:focus-visible {
+  border-color: #c3a3e8;
 }
 
 .modal-overlay {
@@ -230,6 +276,24 @@ body {
   border-radius: 6px;
   font-size: 0.85rem;
   margin: 0 0 1rem;
+}
+
+.modal-plot-note.item-note {
+  background: var(--item-bg);
+  border-color: var(--item);
+  color: var(--item);
+}
+
+.modal-plot-note.clue-note {
+  background: var(--clue-bg);
+  border-color: var(--clue);
+  color: var(--clue);
+}
+
+.modal-plot-note.gate-note {
+  background: var(--gate-bg);
+  border-color: var(--gate);
+  color: var(--gate);
 }
 
 .modal-body p {

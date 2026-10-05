@@ -19,9 +19,11 @@
   function openModal(room) {
     modalTitle.textContent = "Room " + room.num + " \u2014 " + room.name;
     modalBody.innerHTML = room.html;
+    modalPlotNote.className = "modal-plot-note";
     if (room.plot) {
       modalPlotNote.hidden = false;
       modalPlotNote.textContent = room.plotNote;
+      if (room.plotType) modalPlotNote.classList.add(room.plotType + "-note");
     } else {
       modalPlotNote.hidden = true;
       modalPlotNote.textContent = "";
@@ -82,7 +84,7 @@
 
     floor.rooms.forEach(function (room) {
       const btn = document.createElement("button");
-      btn.className = "room-btn" + (room.plot ? " plot-item" : "");
+      btn.className = "room-btn" + (room.plotType ? " " + room.plotType + "-room" : "");
       btn.innerHTML =
         '<span class="room-num">Room ' + room.num + '</span>' +
         '<span class="room-name">' + room.name + '</span>';
