@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mourning Bluff Manor — Cast</title>
+<link rel="stylesheet" href="styles.css">
+
+</head>
+<body>
+<header class="site-header">
+  <h1>Mourning Bluff Manor</h1>
+  <p class="subtitle">669 Gallows Way &middot; The Cast</p>
+  <nav class="site-nav"><a href="index.html">Rooms</a><a href="cast.html" class="active">Cast</a><a href="rules.html">Rules</a><a href="clues.html">Clues</a><a href="canon.html">Canon</a></nav>
+  
+</header>
+
+<main class="article">
+<p>The one-shot uses ten premade archetypes without fixed names, genders, or appearances. Table size is flexible: each player chooses a different one, up to all ten.</p>
+<p>Each Cast member has:</p>
+<ul>
+<li>a background explaining why they would enter Mourning Bluff Manor;</li>
+<li>five Stats;</li>
+<li>a mechanical Weakness arising from an internal conflict;</li>
+<li>one Gift that manipulates their deck;</li>
+<li>one investigative Tool; and</li>
+<li>a blank Secret created by the player, which they must conceal from the rest of the group and which could create conflict if exposed.</li>
+</ul>
+<h2>The Organizer</h2>
+<p>After the Cast members have been chosen, the players select one of them to be the <strong>Organizer</strong>. The Organizer is the person who contacted the others and assembled the group entering Mourning Bluff Manor.</p>
+<p>The other characters need not know or trust one another before arriving, but each knows the Organizer. Being the Organizer does not replace that character's own reason for entering the manor. The Paramedic does not serve as the Organizer; they joined because one of the people entering the manor is their friend, but that relationship is not a character mechanic.</p>
+<h2>The Cast profiles</h2>
+<p>Each character's completed profile, including Bio, Stats, Weakness, Gift, Tool, and (where written) the "What Is Established," "Make the Character Your Own," and "Decide Before Play" sections, lives entirely in its own file under <code>cast/</code>. The profiles are final; this index does not duplicate or draft their content.</p>
+<p>Every build script (<code>build_booklet.py</code>, <code>build_character_profiles_pdf.py</code>, <code>build_character_reference_pdf.py</code>, <code>build_selected_character_packets.py</code>) parses this Cast structure directly from <code>cast/*.md</code>. There is no separate hardcoded copy anywhere; a file in <code>cast/</code> is always authoritative.</p>
+</main>
+
+<main id="cast-grid-wrap">
+  <div id="cast-grid" class="room-grid cast-grid"></div>
+</main>
+
+<div id="modal-overlay" class="modal-overlay" hidden>
+  <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <button class="modal-close" id="modal-close" aria-label="Close">&times;</button>
+    <h2 id="modal-title"></h2>
+    <div id="modal-body" class="modal-body"></div>
+  </div>
+</div>
+
+<script src="cast-data.js"></script>
+<script src="cast-script.js"></script>
+</body>
+</html>

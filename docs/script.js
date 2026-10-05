@@ -5,7 +5,16 @@
   const modalTitle = document.getElementById("modal-title");
   const modalBody = document.getElementById("modal-body");
   const modalPlotNote = document.getElementById("modal-plot-note");
+  const modalRelated = document.getElementById("modal-related");
+  const modalRelatedChips = document.getElementById("modal-related-chips");
   const closeBtn = document.getElementById("modal-close");
+
+  const roomsByNum = {};
+  window.ROOM_DATA.forEach(function (floor) {
+    floor.rooms.forEach(function (room) {
+      roomsByNum[room.num] = room;
+    });
+  });
 
   function openModal(room) {
     modalTitle.textContent = "Room " + room.num + " \u2014 " + room.name;
@@ -17,6 +26,33 @@
       modalPlotNote.hidden = true;
       modalPlotNote.textContent = "";
     }
+
+    modalRelatedChips.innerHTML = "";
+    if (room.related && room.related.length) {
+      modalRelated.hidden = false;
+      room.related.forEach(function (rel) {
+        const chip = document.createElement("button");
+        chip.className = "related-chip";
+        chip.type = "button";
+        chip.textContent = "Room " + rel.num + " \u2014 " + rel.name;
+        chip.addEventListener("click", function () {
+          const target = roomsByNum[rel.num];
+          if (target) openModal(target);
+        });
+        modalRelatedChips.appendChild(chip);
+      });
+    } else {
+      modalRelated.hidden = true;
+    }
+
+    modalBody.querySelectorAll("a.room-link").forEach(function (a) {
+      a.addEventListener("click", function (e) {
+        e.preventDefault();
+        const target = roomsByNum[a.dataset.room];
+        if (target) openModal(target);
+      });
+    });
+
     overlay.hidden = false;
     closeBtn.focus();
   }

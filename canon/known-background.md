@@ -40,6 +40,8 @@ He used the possibility of preventing disasters to justify confinement, coercion
 
 After Miriam's death, Ward gained control of Mourning Bluff Manor through disputed legal documents bearing her signature. Every witness to those documents was affiliated with the Fellows.
 
+Acquiring the five objects named in the spellbook took real effort; Ward spent roughly six unaccounted-for weeks in 1903 traveling through Eastern Europe to track down a family of Romani smiths, "gypsies" in his own dismissive word, who held that a blade meant to draw blood must never be given a name, since naming it bound the smith's soul to whatever it later did. He acquired the spirit lamp the same way, through a defunct rival society's disgraced sitting. **Locked:** full provenance for the dagger and the lamp in `decision-log.md`; the dagger's documentary trace is a researcher's printout in Room 093, the Computer Room (`669-gallows-hill-way.md`).
+
 ## The Fellows of the Rook
 
 The **Fellows of the Rook**, usually called **the Fellows**, were a private fraternity of physicians, historians, spiritualists, academics, industrialists, and wealthy patrons.
@@ -63,6 +65,8 @@ The buried interior is windowless and larger than the visible circumference shou
 Local stories have called it a watchtower, an observatory, a prison, a religious structure, and a monument to a settlement absent from every map. None of these explanations is authoritative. No one knows who built the Tower or why.
 
 The Fellows called the surviving buried chamber **the Lower Circle**. Ward believed the Tower distorted clairvoyant perception and allowed sufficiently sensitive minds to observe events beyond their own histories. The Fellows first attempted to document those impressions. Later experiments attempted to perceive and influence events that had not yet occurred.
+
+The Lower Circle sits beneath a sealed iron floor-door in Room 100, the Spiral Stair Room, the only room still treated as true basement, reached by a stone-cut staircase and a circular stone antechamber with its own descending wall-stair. The door answers only to the working itself, once all five objects named in the spellbook are brought together there. It has exactly one known exception: a dark Major Arcana World card can force the seam open temporarily, a crack the house reaches through rather than the ritual actually completing. **Resolved, session 1:** this exception occurred in actual play, with only two of the five items gathered; the descent is confirmed open as of that session's end. (Full text, `669-gallows-hill-way.md`, Room 100; decision noted in `decision-log.md`.)
 
 ## What the Fellows awakened
 
