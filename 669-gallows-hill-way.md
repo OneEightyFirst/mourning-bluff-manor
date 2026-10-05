@@ -24,53 +24,127 @@ The gallary: Heavy ribs divide its vaulted ceiling into repeating arches, suppor
 
 ### Room 001 - Red Drawing Room
 
-A sitting room, no windows. Ornate Victorian lamp hanging from the ceiling. Red velvet couches. A rug. Half wall wooden panels. Wallpaper above. One painting of a ship on a stormy sea.
+A windowless sitting room with no other doors, paneled in dark wood to waist height with deep red wallpaper above. An ornate Victorian lamp hangs from the ceiling, casting warm, dim light over red velvet couches and a dark, patterned rug. A large painting of a ship caught in a storm dominates the far wall.
 
-With no windows to distract from the ambiance, the attention is drawn to the intricate details that adorn the room. An ornate Victorian lamp, suspended from the ceiling, casts a warm glow over the space, inviting visitors in. Red velvet couches line the room, like the thrones of the dead, waiting for unsuspecting visitors to take a seat. The rug, with its twisted patterns and dark hues, seems to writhe and move like something alive, pulling you towards its center.The half wall wooden panels give off a creak, and the wallpaper above them looks as though it could peel off at any moment, revealing secrets hidden beneath. The painting of a ship on a stormy sea dominates the room, its depiction of the tempestuous waves and lightning bolts sending chills down your spine. [It's as if the painting is alive, and the storm is coming right towards you.]
+- A low bookshelf beside the couches holds a handful of worn novels.
+- A small side table carries a crystal decanter and two mismatched glasses.
+- A brass poker and tongs lean in an empty, unused fireplace.
+- [The ship in the painting sits a little closer to the rocks every time someone looks away from it.]
 
 ### Room 002 - Buried Passage
 
-This room should come after the players walk down what seems like a flight of basement stairs. The steps are narrow, uneven, and steep enough that the bottom remains hidden until they are nearly upon it. They emerge into a stone-walled room with dark wooden floorboards and a low, arched stone ceiling, more like a buried passage or an old foundation than a proper cellar. A single industrial-looking lightbulb hangs from a long black cord in the center of the room. Its weak yellow light reaches the floor and the nearest walls but fades before reaching the back of the chamber. The floorboards are dry close to the stairs and damp farther in, although there is no visible water. Scrapes in the wood suggest that something heavy has been repeatedly dragged into the darkness. The stone walls are bare except for several empty iron brackets and a thin pale line running around the room at shoulder height. The bulb sways slightly even when the air is still, causing the shadows between the stones to open and close. From the foot of the stairs, the far wall cannot be seen at all.
+This room should come after the players walk down what seems like a flight of basement stairs, narrow, uneven, and steep enough that the bottom stays hidden until they're nearly upon it. It opens into a stone-walled passage with dark wooden floorboards and a low, arched stone ceiling, more like a buried foundation than a proper cellar. A single bare lightbulb swings from a long black cord, its weak yellow light fading well before it reaches the back of the room.
+
+- Several empty iron brackets are fixed into the stone at even intervals.
+- A thin pale line runs around the walls at shoulder height, like an old flood mark.
+- Deep scrapes cut across the floorboards, trailing off into the dark.
+- The floor is dry near the stairs and damp farther in, with no visible source of water.
+- [The bulb sways slightly even when the air is still.]
+- [The far wall cannot be seen from the foot of the stairs, no matter how long you look.]
 
 ### Room 003 - The Green Study
 
-A study covered in dark green velvet wallpaper, faded to brown at the seams and worn smooth around the light switches and doorframe. The wall opposite the door holds a single tall window, but the glass is clouded with age and moisture, making it impossible to tell whether it looks outside or into another part of the house. Floor-to-ceiling bookcases fill both side walls, their shelves crowded with leather-bound volumes, loose journals, rolled maps, and small objects used to hold books upright. Some shelves bow beneath the weight, while others contain suspiciously clean gaps where books have recently been removed. In the center of the room, facing the door, stands a large carved desk with drawers on both sides and a cracked leather writing surface. A brass study lamp with a green glass shade illuminates a typewriter placed squarely in the middle of the desk. Beside it are several sheets of blank paper, a dry ink bottle, a magnifying glass, and a cup of tea darkened by dust. [The desk's right-hand drawer sticks until forced, opening onto old receipts and dried-out pen nibs, save for one thing: a single sealed letter, its wax seal unbroken, addressed to no one, in a woman's careful hand:
+A study walled in dark green velvet wallpaper, worn pale at the light switches and doorframe, lit by a brass desk lamp with a green glass shade. The single tall window opposite the door is too clouded with age to tell what's on the other side of it. A large carved desk dominates the center of the room, a typewriter sitting squarely in the middle of it.
+
+- Floor-to-ceiling bookcases crowd both side walls with leather-bound volumes, loose journals, and rolled maps.
+- A small chess table beneath the window holds a full ivory chess set. [One piece doesn't match: a rook carved from black iron, heavier and cruder than the rest.]
+- Several sheets of blank paper, a dry ink bottle, and a magnifying glass sit beside the typewriter.
+- A cup of tea, long gone cold, has gathered a skin of dust.
+- Some shelves bow under the weight of books; others show clean gaps where volumes were recently removed.
+- [The desk's right-hand drawer sticks until it's forced open.]
+- [The typewriter keys click at irregular intervals although no one is seated there.]
+
+[Forced open, the desk's right-hand drawer holds old receipts and dried-out pen nibs, save for one thing: a single sealed letter, its wax seal unbroken, addressed to no one, in a woman's careful hand:
 
 *Lucius, You have told me every season for eleven years that the children are close, and every season I have chosen to believe you, because it was easier to trust you than to doubt them. That trust is what led me to sign whatever you set before me these last years without troubling to read it closely, for you asked it of me, and refusing felt like refusing them. I no longer know which of those papers was the will, and which was something else you needed my hand upon. If anything is done in my name after tonight, know that it was not asked of me, and I withdraw whatever I have given.*
 
 *M.B.*
 
-The letter is dated the same week as the final entry in the household ledger recording Miriam Bellweather's death. It was never delivered, never opened, and never entered into any estate record.] A small chess table stands beneath the window, set with a full ivory chess set, every piece carved in fine, matching detail. [One piece does not match the rest: a rook, carved from black iron rather than ivory, heavier and cruder than its counterparts, standing among them as though it was never meant to belong to this set at all.]
+The letter is dated the same week as the final entry in the household ledger recording Miriam Bellweather's death. It was never delivered, never opened, and never entered into any estate record.]
 
-[The typewriter keys click at irregular intervals although no one is seated there, sometimes striking a single letter and sometimes racing through an entire line. The carriage returns with a sharp metallic snap. Nothing appears on the page until it is lifted from the machine.] 
+[The typewriter keys click at irregular intervals although no one is seated there, sometimes striking a single letter and sometimes racing through an entire line. The carriage returns with a sharp metallic snap. Nothing appears on the page until it is lifted from the machine.]
 
-### Room 004 - Little Girl’s Playroom
+### Room 004 - Little Girl's Playroom
 
-A little girl’s playroom decorated in faded pink and cream, with white-painted furniture made slightly too small for an adult. Paper flowers trail across the wallpaper, interrupted by pale rectangular patches where pictures have been removed. A round table near the center is arranged for tea with four child-sized chairs, a porcelain set painted with blue violets, and wooden cakes cut into careful slices. Three places are set neatly; the fourth cup is overturned, leaving a dark ring on the lace cloth. Shelves hold wooden blocks, lead animals, books of nursery stories, puzzles, and dolls dressed for different occasions. Most of the porcelain dolls sit neatly leaning back against the wall. [One, though, is leaning forward on her arms, her head tilting so that she’s gazing directly at the players.] A rocking horse rests near the window with its leather reins looped around one handle, and a child’s wardrobe contains neatly hung dresses, muddy boots. Crayon drawings have been pinned low along the walls: the house, its gardens, groups of smiling figures, [and the same tall shape standing at the edge of every picture]. A music box sits open on the mantel, its key wound tight. It does not play, but the small painted dancer inside slowly changes which direction it faces whenever no one is watching.
+A little girl's playroom in faded pink and cream, furniture painted white and built slightly too small for an adult. Paper flowers trail across the wallpaper, broken up by pale patches where pictures used to hang. A round tea table sits set for four near the center of the room, one place overturned, leaving a dark ring on the lace cloth.
+
+- Shelves hold wooden blocks, lead animals, nursery storybooks, and puzzles.
+- Rows of porcelain dolls lean back against the wall. [One leans forward instead, her head tilting toward the door.]
+- A rocking horse waits by the window, its leather reins looped over one handle.
+- A child's wardrobe holds neatly hung dresses and a pair of muddy boots.
+- Crayon drawings are pinned low along the walls: the house, the gardens, smiling figures. [The same tall shape stands at the edge of every picture.]
+- A wound music box sits open on the mantel. [It never plays, but the painted dancer inside keeps changing which way she faces.]
 
 ### Room 005 - The Wallpaper Hall
 
-A long, narrow hallway stretches beyond the reach of the nearest wall sconce. Its lower walls are paneled in dark wood, while the upper half is covered in faded burgundy wallpaper patterned with curling vines and small cream flowers. There are no paintings, photographs, or mirrors, although clean rectangles interrupt the dust where frames once hung. A red runner lies perfectly centered over the floorboards, its edges worn thin and its repeating pattern subtly changing from one end of the hall to the other. Small tables stand at regular intervals, each holding an empty vase, a cold brass candlestick, [or a shallow dish filled with buttons.] Identical doors line both sides of the corridor. Some have polished handles, some tarnished ones, and one has no hardware at all. [The hallway seems quiet at first, but the wallpaper gives an occasional dry rustle like someone turning in bed.] In places it pulls away from the plaster and settles again. [Farther down, the paper slowly tightens around the shape of a palm pressing from behind it. Individual fingers become visible beneath the pattern, feeling along the wall before withdrawing. Other hands sometimes answer from farther ahead or behind the players, each pressing outward just long enough to leave the wallpaper slightly stretched. None of them tear through. At the farthest visible point, the corridor appears to turn sharply to the left, though the runner continues straight beneath the wallpaper as if the hall once went farther.]
+A long hallway stretches beyond the reach of the nearest wall sconce, its lower walls paneled in dark wood and the upper half covered in faded burgundy wallpaper patterned with curling vines and small cream flowers. A red runner lies centered over the floorboards. Identical doors line both sides of the corridor, though their hardware doesn't match from one to the next.
+
+- Clean rectangles interrupt the dust on the walls where frames used to hang.
+- Small tables at intervals hold an empty vase, a cold brass candlestick, or [a shallow dish of buttons].
+- One door along the hall has no handle at all.
+- The runner's repeating pattern subtly changes from one end of the hall to the other.
+- [The wallpaper gives an occasional dry rustle, like someone turning in bed.]
+- [Farther down, the paper tightens around the shape of a pressing palm, fingers visible beneath the pattern before withdrawing.]
 
 ### Room 006 - The Vanity Bedroom
 
-A carefully kept bedroom with pale floral wallpaper, a narrow four-poster bed, and heavy curtains drawn across the only window. The bed is made beneath a faded patchwork coverlet, but the center of the mattress bears a shallow impression as though someone has been lying there. A nightstand holds a glass of cloudy water, a burned-down candle, a silver-backed hairbrush, and a small dish containing several milk teeth. Two slippers wait side by side beneath the bed, pointed toward the room rather than away from it. A wardrobe stands partly open, revealing dark dresses wrapped in linen and a row of empty wooden hangers that knock softly together without moving. The room’s most elaborate piece is a walnut vanity with curling legs, three drawers, and an oval frame of carved roses where a mirror should hang. No glass fills it, only a ring of bare velvet backing and four small holes where fittings were pried loose. Perfume bottles, hatpins, combs, powder boxes, a small hand mirror with a tarnished silver handle, and a photograph turned facedown crowd its surface. [The hand mirror's glass is intact, ordinary among the clutter surrounding it, easy to mistake for one more piece of a dead woman's toiletries. It is the only true mirror anywhere in Mourning Bluff Manor, sitting in plain sight on the one vanity whose own mirror was removed along with all the rest.] [Turning the photograph over shows a formal portrait of whoever looks at it first, though the sitter is older, dressed unfamiliarly, and marked by details the viewer does not yet have: a deeper line beside the mouth, grey at the temples, a looseness around the eyes. Studying it longer seems to age the likeness further, the wallpaper behind the sitter darkening, the silver tarnishing at the photograph’s edges, while the actual room remains unchanged. Occasionally the photographed figure glances toward the bed or reaches for an object on the vanity a moment before the person does.]
+A carefully kept bedroom in pale floral wallpaper, heavy curtains drawn across the one window, a narrow four-poster bed made beneath a faded patchwork coverlet. The room's finest piece is a walnut vanity with an oval frame of carved roses where its mirror should hang, now just a ring of bare velvet backing.
+
+- A nightstand holds a glass of cloudy water, a burned-down candle, a silver-backed hairbrush, and a small dish of milk teeth.
+- Two slippers wait side by side beneath the bed, pointed toward the room.
+- A wardrobe stands partly open on dark dresses wrapped in linen. [The empty hangers beside them knock softly together without moving.]
+- The vanity's surface is crowded with perfume bottles, hatpins, combs, powder boxes, a small hand mirror, and a photograph turned facedown.
+- [The mattress bears a shallow impression, as though someone has been lying there.]
+- [The hand mirror's glass is intact, easy to mistake for one more piece of a dead woman's toiletries. It's the only true mirror left anywhere in Mourning Bluff Manor.]
+- [Turning the photograph over shows a formal portrait of whoever looks at it first, aged by details they don't have yet: a deeper line beside the mouth, grey at the temples.]
 
 ### Room 007 - Wedding Dining Room
 
-A grand dining hall has been prepared for a wedding breakfast that was never cleared away. A long table runs nearly the full length of the room beneath a crystal chandelier, every place set with tarnished silver, cloudy glassware, folded linen, and plates still holding the grey remains of an elaborate feast. Heavy curtains have been pinned shut over tall windows, leaving the room in a dim amber light cast by dozens of candles burned down to crooked stubs. Cobwebs stretch from chair to chair and hang between the chandelier and the table like sagging bunting. At the head of the table, a high-backed chair is draped in a yellowed bridal veil; [the chair opposite it has been pulled away as though its occupant stood suddenly and never returned.] A many-tiered wedding cake dominates the center of the table, its white icing cracked, discolored, and furred with dust. Sugar flowers have collapsed into one another, and tiny tracks cross the icing before disappearing into a hole near the base. [If the cake is cut, the interior beneath the spoiled outer layer is soft, pale, and freshly made. It smells faintly of almonds.] Place cards stand before every chair, but their faces appear blank beneath the dust. [Wiping one clean reveals a name written in faded ink. The names may belong to former residents, missing people, or those currently exploring the house.] Along the walls stand sideboards crowded with unopened gifts, silver serving dishes, dead flowers, and champagne bottles whose corks are bound with black ribbon. A mantel clock and two smaller clocks on the sideboards have all stopped at the same minute. [The clocks do not show the same hour, and each advances by one minute whenever someone takes a seat.] Above the fireplace hangs a formal wedding portrait darkened by smoke. The bride is clearly visible, but the paint covering the other figure’s face has been carefully scraped away. At the bride’s place stands an ornate goblet, its bowl and stem carved from a single piece of polished wood and ringed with a band of carved vines at the base. Dust has settled into the carving just as it has everywhere else at the table, but it remains the only piece at the entire setting made from anything but silver or glass.
+A grand dining hall prepared for a wedding breakfast that was never cleared away: a long table runs nearly the full length of the room beneath a crystal chandelier, every place still set with tarnished silver and cloudy glassware. Heavy curtains are pinned shut over the tall windows, leaving the room in dim amber light from dozens of candles burned down to crooked stubs. At the head of the table, a high-backed chair is draped in a yellowed bridal veil.
+
+- A many-tiered wedding cake dominates the center of the table, icing cracked and furred with dust, sugar flowers collapsed into one another. [Cut into, the cake beneath the spoiled outer layer is soft, fresh, and smells faintly of almonds.]
+- Place cards stand before every chair, faces blank beneath the dust. [Wiped clean, each reveals a name in faded ink.]
+- Sideboards along the walls hold unopened gifts, silver serving dishes, dead flowers, and black-ribboned champagne.
+- A mantel clock and two smaller clocks on the sideboards have all stopped at the same minute. [They don't show the same hour, and each advances by one minute whenever someone takes a seat.]
+- Cobwebs stretch from chair to chair and hang between the chandelier and the table like sagging bunting.
+- An ornate goblet stands at the bride's place, carved from a single piece of polished wood and ringed with carved vines, the only piece at the table not made of silver or glass.
+- Above the fireplace hangs a darkened wedding portrait. [The paint covering the groom's face has been carefully scraped away.]
+- [The chair opposite the bride's has been pulled away, as though its occupant stood suddenly and never returned.]
 
 ### Room 008 - Enclosed Courtyard
 
-An enclosed courtyard garden sits open to a square of colorless sky, though no part of the house seen from outside could contain it. Tall brick walls rise on every side, their windows shuttered or hidden behind curtains of dead ivy. The garden is overgrown but lifeless: box hedges have collapsed over their borders, bare rose canes climb the drainpipes, and thick, brittle vines bind the trees, statues, and furniture together. Dry flower heads crowd the beds, each one perfectly preserved despite having lost its color. A pale gravel path circles a broad stone fountain at the center before dividing toward several arched doorways. The fountain depicts three marble women holding empty urns over a basin filled with curled leaves, dead lily stalks, coins, and small animal bones. Their faces have been softened by age, but their hands and fingernails remain unnervingly precise. [Beneath the leaves lie small keys, teeth, and several pieces of jewelry tangled in a mass of pale roots.] Cast-iron chairs and tables occupy small clearings beneath the trees, their white paint flaking away in long curls. One table has been set with a rusted tea service and four empty cups. Vines have grown through the open metalwork of three chairs; the fourth remains entirely untouched. Stone statues stand among the hedges—a shepherd, two children playing, a veiled woman, and several animals—each turned toward a different part of the garden. [Whenever no one is looking directly at them, the statues may change position or turn toward the nearest living person.] Fallen leaves cover most of the paths despite the absence of any living canopy above them. In several places, the vines have grown into shapes resembling doorframes. [Pulling them aside reveals bricked-over entrances, shallow alcoves, or doors leading into rooms elsewhere in the house. The same opening need not be behind them twice.] A narrow iron gate is visible at the far end of the courtyard, almost completely swallowed by thorny white rose canes. Beyond it, the path appears to continue into deeper gardens where the light is noticeably darker.
+An enclosed courtyard garden opens to a square of colorless sky that no exterior view of the house could contain. Tall brick walls rise on every side, windows shuttered or curtained with dead ivy. A pale gravel path circles a broad stone fountain at the center before dividing toward several arched doorways.
+
+- The fountain's three marble women hold empty urns over a basin of curled leaves, dead lily stalks, coins, and small animal bones. [Small keys, teeth, and jewelry lie tangled in roots beneath the leaves.]
+- Cast-iron chairs and tables sit beneath the trees, white paint flaking away in long curls. One table is set with a rusted tea service and four cups; vines have grown through three of the chairs, leaving the fourth entirely untouched.
+- Stone statues stand among the hedges, a shepherd, two children playing, a veiled woman, several animals. [Whenever no one is looking directly at them, they may change position or turn toward whoever's nearest.]
+- Dry flower heads crowd the beds, perfectly preserved despite having lost all their color.
+- Thick, brittle vines bind the trees, statues, and furniture together, some grown into shapes resembling doorframes. [Pulling them aside may reveal bricked-over entrances or doors leading elsewhere in the house.]
+- A narrow iron gate at the far end is almost completely swallowed by thorny white rose canes.
 
 ### Room 009 - Solarium
 
-A long solarium projects from the side of the house beneath a pitched roof of iron-framed glass. Rain streams continuously across every pane, blurring the grounds beyond into dark trees and streaks of grey sky. The steady drumming overhead fills the room and makes quieter sounds difficult to place. Moisture beads on the glass, runs down the painted framework, and gathers beneath the windows despite a line of copper gutters built into the tiled floor. Ferns, palms, orchids, and broad-leafed tropical plants crowd raised beds along both walls, their foliage grown thick enough to narrow the path through the room. Some plants are carefully labeled with small porcelain markers; others have pushed out of cracked pots and rooted directly between the tiles. Wicker chairs surround a low table set with gardening journals, rusted shears, coils of twine, and a cold pot of tea. One chair has nearly disappeared beneath a flowering vine. [The vine has curled around the chair in the shape of a seated person, including two distinct hands resting on the arms.] At the center of the solarium stands a circular tiled pool filled with black soil rather than water. Pale mushrooms grow in a ring around its edge, and a young tree rises from the middle, its branches pressed against the glass ceiling. [The tree’s leaves bear the faint outlines of human faces in their veins. A face becomes recognizable only after the viewer has looked away and tried to remember it.] The far wall is made entirely of tall glass panes overlooking a narrow stone terrace, but there is no door, latch, or movable section anywhere in the framework. Rain hammers against the terrace and pours from its edges while the sealed glass trembles faintly in its frame. A brass weather instrument hangs between two panes, its needles trembling between labels for FAIR, STORM, and CHANGE. [Close inspection reveals worn screw holes in the floor and frame where a door may once have been fitted, though the glass now covering the space is as old as the rest.]
+A long solarium projects from the house beneath a pitched roof of iron-framed glass, rain streaming endlessly across every pane and drumming loud enough to drown out quieter sounds. Ferns, palms, orchids, and broad tropical plants crowd raised beds along both walls. At the center of the room stands a circular tiled pool filled with black soil rather than water, a young tree rising from its middle, branches pressed against the glass ceiling.
+
+- Wicker chairs surround a low table holding gardening journals, rusted shears, coils of twine, and a cold pot of tea.
+- Some plants carry small porcelain labels; others have pushed out of cracked pots and rooted directly between the tiles.
+- A ring of pale mushrooms grows around the edge of the soil-filled pool.
+- A brass weather instrument hangs between two panes, its needle trembling between labels for FAIR, STORM, and CHANGE.
+- [One wicker chair has nearly disappeared beneath a flowering vine curled into the shape of a seated person, including two hands resting on the arms.]
+- [The tree's leaves bear the faint outline of a human face, recognizable only after you've looked away and tried to remember it.]
+- [The far wall is solid glass with no door, latch, or hinge anywhere in the frame, though worn screw holes in the floor suggest one may once have been fitted.]
 
 ### Room 010 - The Still Library
 
-A circular library rises beneath a high painted dome, its curved walls covered from floor to ceiling in dark wooden bookcases. Brass-railed galleries circle the room at two levels, reached by narrow staircases built into the shelves. Thousands of books fill the cases in uneven rows, interrupted by marble busts, small globes, locked cabinets, and rolling ladders fixed to rails. A great chandelier hangs from the center of the dome, though none of its candles are lit. The room is illuminated instead by shaded reading lamps arranged around several leather chairs and writing tables. The floor is bare dark parquet, worn to a dull shine down the center of the room where generations of feet have crossed it and left untouched at the edges, where the grain is still sharp enough to show the adze marks beneath the finish. The book spines are dark with age and marked in several languages. A reading desk near the center holds an open catalogue, a magnifying glass, and a stack of request slips written in the same careful hand. [The catalogue includes titles that have not yet been written, books named for people inside the house, and a complete architectural history of rooms that do not appear on any known plan.] One request slip, filled out in the same careful hand as the others but never submitted, names a single volume: a slim, unbound folio of loose pages tied with black ribbon, sitting in plain sight on the desk itself as though someone set it down and meant to come back. Its final page, in a hand distinct from any of the requests, reads:
+A circular library rises beneath a high painted dome, its curved walls covered floor to ceiling in dark bookcases, with two levels of brass-railed galleries reached by narrow staircases built into the shelves. A great unlit chandelier hangs from the dome's center; the real light comes from shaded reading lamps scattered around leather chairs and writing tables. The floor is bare dark parquet, worn to a dull shine down the center of the room.
+
+- Rolling ladders fixed to rails reach the highest shelves.
+- Marble busts, small globes, and locked cabinets fill the gaps between bookcases.
+- Thousands of dark, aged book spines crowd the shelves in uneven rows, marked in several languages.
+- A reading desk near the center holds an open catalogue, a magnifying glass, and a stack of request slips.
+- [The catalogue includes titles that haven't been written yet, and a complete architectural history of rooms that appear on no known plan.]
+
+[One request slip, filled out in that same careful hand but never submitted, names a single volume: a slim, unbound folio of loose pages tied with black ribbon, sitting in plain sight on the desk itself, as though someone set it down meaning to come back. Its final page, in a hand distinct from any of the requests, reads:
 
 *To close the eye of the house, or else to open it entirely, five things must be brought together and given freely, none taken by force, at the five points of the working.*
 
@@ -84,68 +158,148 @@ A circular library rises beneath a high painted dome, its curved walls covered f
 
 *The last glass in the house that still tells the truth.*
 
-*Bring these to the circle beneath the old stones, and stand where the walls remember being whole. What the house shows you then depends entirely on why you have come.*
+*Bring these to the circle beneath the old stones, and stand where the walls remember being whole. What the house shows you then depends entirely on why you have come.*]
 
 ### Room 011 - Miniature House Room
 
-A small circular chamber surrounds a large round display table, leaving only a narrow walkway between the table and the curved walls. Four identical wooden doors are set evenly around the room, each facing the center and each fitted with the same dark brass handle. There are no windows in the walls and no lamps, sconces, candles, or fireplace. Overhead, the ceiling rises into a glass dome divided by black iron ribs. Rain streams across the curved panes, and the room is visible only in the cold grey light of the storm and the brief white flashes of lightning above it. An elaborate miniature of Mourning Bluff Manor rests on the table. The model is nearly six feet across and constructed from real wood, slate, stone, brass, and tiny panes of glass. Its exterior includes every tower, chimney, gable, and window visible from the grounds, along with additions that cannot be seen from outside the real house. Sections of the walls have been built to open on concealed hinges, revealing fully furnished rooms, narrow corridors, staircases, servant passages, and spaces with no obvious entrance. The craftsmanship extends to minute books, framed portraits, dishes, rugs, and clocks no larger than fingernails. [The arrangement inside the miniature reflects the house as it currently exists rather than any fixed plan. Rooms may move, vanish, or appear between examinations.] The model’s windows remain dark between lightning flashes. [When lightning illuminates the room, tiny figures may be visible inside the model. Some resemble the people presently exploring Mourning Bluff Manor; others occupy rooms the group has not found.] A miniature version of the circular chamber appears somewhere within the house, containing an even smaller model on its own table. [The four real doors do not always return to the rooms from which they were entered. Their destinations may correspond to whichever four miniature rooms currently face the chamber inside the model.]
+A small circular chamber holds a large round display table, leaving only a narrow walkway to the curved walls. Four identical wooden doors are set evenly around the room, each fitted with the same dark brass handle. There are no windows, lamps, sconces, or fireplace, only a glass dome overhead where rain streams across black iron ribs, and lightning gives the only real light.
+
+- An elaborate six-foot miniature of Mourning Bluff Manor rests on the table, built from real wood, slate, stone, brass, and tiny panes of glass.
+- Sections of the model's walls open on concealed hinges, revealing fully furnished rooms, corridors, and staircases, down to finger-sized books and clocks.
+- [The model's layout reflects the house as it currently stands; rooms inside it may move, vanish, or appear between examinations.]
+- [Lightning flashes sometimes reveal tiny figures inside the model, some resembling the people presently exploring the house.]
+- [A miniature version of this very chamber appears somewhere inside the model, holding an even smaller model of its own.]
+- [The four real doors don't always return to the rooms from which they were entered.]
 
 ### Room 012 - Music Room
 
-The music room is a comfortable private salon, smaller than the house’s formal entertaining rooms and arranged for an audience of no more than a dozen people. Dark blue wallpaper covers the walls above polished walnut paneling, and a patterned rug softens the center of the floor. Tall windows are framed by heavy velvet curtains tied back with faded gold cord. A low fire has been laid but not lit in the marble fireplace. An upright piano stands against one wall with its fallboard raised and several yellowed pages of music waiting on the stand. Nearby are a gilt harp, a cello resting in an open case, two violins mounted above a cabinet, and a row of upholstered chairs turned toward them as if a performance is about to begin. Framed concert programs, handwritten scores, and portraits of severe-looking musicians cover the remaining wall space. On a small table beside the fireplace sits an old cylinder phonograph with a broad brass horn, a blackened winding handle, and a felt-covered mandrel. A fitted wooden case beneath it holds dozens of wax cylinders in individual cardboard tubes. Some are labeled with the names of songs, performers, and family occasions; others bear only a room name or a person’s initials. [Several cylinders contain sounds rather than music: conversations recorded elsewhere in the house, footsteps approaching a closed door, or someone quietly crying.] The phonograph’s mechanism is clean and well oiled despite the dust covering everything around it. [Winding the handle may cause one of the instruments to answer the recording, even when no one is touching it. A blank cylinder can record sounds that have not happened yet, then become smooth again after they occur.] A conductor’s baton rests across the piano keys. One key remains depressed beneath it, though no note sounds until someone enters the room alone.
+A comfortable private salon, smaller than the house's formal entertaining rooms, dark blue wallpaper covering the walls above polished walnut paneling. Heavy velvet curtains frame the tall windows, and an upright piano stands against one wall, its fallboard raised and yellowed sheet music still waiting on the stand.
 
-### Room 013 - Carpenter’s Workshop
+- A gilt harp, a cello resting in an open case, and two violins are mounted near a cabinet, upholstered chairs turned toward them as if a performance is about to begin.
+- Framed concert programs, handwritten scores, and portraits of severe-looking musicians cover the remaining wall space.
+- An old cylinder phonograph with a brass horn sits on a side table, a fitted case of wax cylinders beneath it, most labeled with songs, performers, or family occasions.
+- A conductor's baton rests across the piano keys. [One key stays depressed beneath it, though no note sounds until someone enters the room alone.]
+- [Several cylinders hold sounds rather than music: conversations recorded elsewhere in the house, approaching footsteps, someone quietly crying.]
+- [Winding the handle may cause one of the instruments to answer the recording on its own. A blank cylinder can record sounds that haven't happened yet, then smooth over again afterward.]
 
-This was once the estate carpenter’s workshop. The walls are paneled in dark wood and crowded with shallow shelves holding planes, chisels, hand drills, jars of nails, wooden toys, carved ornaments, and unfinished pieces of molding. A broad, scarred workbench occupies the center of the room, its iron vise still gripping a narrow length of walnut, while a treadle lathe, a pedal-driven sharpening wheel, and several heavy saws stand silent along the walls. The floor is buried beneath old sawdust and pale curls of wood, though a few of the shavings near the bench look noticeably fresher than the rest. Cut lumber is stacked by size in one corner, much of it labeled in faded pencil for repairs elsewhere in the house. A floor-to-ceiling cabinet contains several dozen wooden marionettes, each neatly hung from its control bar with its strings carefully untangled. Most are ordinary figures—servants, soldiers, children, animals—but several wear clothing made from scraps of fabric matching curtains, upholstery, or garments found elsewhere in Mourning Bluff Manor. A flat-file cabinet holds plans for doors, stair rails, furniture, toys, wall paneling, and repairs made throughout the estate. [Some plans depict passages or rooms the players have not seen, while others show doors where there are now solid walls. Several bear handwritten measurements that appear recent.] [If the room is left and later revisited, a tool, marionette, or unfinished carving may be in a different position, but nothing here moves while directly observed.]
+### Room 013 - Carpenter's Workshop
+
+This was once the estate carpenter's workshop, walls paneled in dark wood and crowded with shallow shelves of planes, chisels, hand drills, jars of nails, and unfinished moldings. A broad, scarred workbench occupies the center of the room, its iron vise still gripping a narrow length of walnut, while a treadle lathe, a sharpening wheel, and several heavy saws stand silent along the walls.
+
+- The floor is buried beneath old sawdust and pale wood curls. [A few shavings near the bench look noticeably fresher than the rest.]
+- Cut lumber is stacked by size in one corner, much of it labeled in faded pencil for repairs elsewhere in the house.
+- A floor-to-ceiling cabinet holds several dozen wooden marionettes, each neatly hung from its control bar. [Several wear clothing made from scraps matching curtains or upholstery found elsewhere in Mourning Bluff Manor.]
+- A flat-file cabinet holds plans for doors, stair rails, and furniture. [Some depict passages or rooms never found, or doors where there are now solid walls, with measurements that look recent.]
+- [Nothing here moves while directly observed, but a tool, marionette, or unfinished carving may be in a different position after the room is left and later revisited.]
 
 ### Room 014 - Observatory
 
-The narrow stairway ends in a circular observatory beneath a high copper dome. Tall arched windows encircle the room, though from this height there should be a clearer view across the grounds. A massive brass telescope stands in the center on an iron pier anchored directly into the floor, surrounded by handwheels, counterweights, and a narrow wooden observing chair polished smooth by use. Its barrel is aimed through a shutter in the dome, but the opening reveals only a blurry darkness. Cabinets along the curved wall contain star charts, cloudy glass lenses, notebooks swollen with damp, and delicate instruments for measuring angles and time. A celestial globe stands near the stair, its constellations picked out in tarnished silver and bearing names no one recognizes. Beside it, a long desk is crowded with calculations, sketches of the moon, and observations recorded over many different years in what appears to be the same careful hand. [Looking through the telescope reveals a clear and unfamiliar night sky: dense fields of stars, several unusually large planets, and constellations matching those on the globe. Moving the telescope changes the view normally, but no familiar star or landmark can be found.] [Some notebooks chart the movements of these bodies in exacting detail; others contain brief observations of lights appearing in particular windows of Mourning Bluff Manor, as though the astronomer sometimes turned the telescope upon the house itself.] [One chart includes a small circle marking a dark region between the stars. Its position has been corrected repeatedly, each correction bringing it closer to the center of the page.]
+The narrow stairway ends in a circular observatory beneath a high copper dome, tall arched windows encircling the room though the view outside should be clearer from this height. A massive brass telescope stands in the center on an iron pier anchored into the floor, aimed through a shutter in the dome at nothing but blurred darkness.
+
+- Cabinets along the curved wall contain star charts, cloudy glass lenses, and notebooks swollen with damp.
+- A celestial globe stands near the stair, its constellations picked out in tarnished silver under names no one recognizes.
+- A long desk is crowded with calculations, sketches of the moon, and observations recorded over many different years in the same careful hand.
+- [Looking through the telescope reveals a clear, unfamiliar night sky, with no landmark matching anything known.]
+- [Some notebooks chart these bodies in exacting detail; others record lights appearing in particular windows of Mourning Bluff Manor, as though the astronomer sometimes turned the telescope upon the house itself.]
+- [One chart includes a small circle marking a dark region between the stars, its position corrected again and again, each time closer to the center of the page.]
 
 ### Room 015 - Dressing Room
 
-This long, narrow dressing room is lined with fitted wardrobes, low upholstered benches, and dressing tables set beneath tall empty frames. The wardrobes contain evening clothes from several different periods, all carefully brushed and hung beneath linen covers, while shallow drawers hold gloves, combs, hatpins, cuff links, and small bottles of perfume gone dark with age. Several garments appear close to the players’ sizes, though none are exact. Empty frames crowd nearly every available stretch of wall: cheval stands with nothing between their posts, hinged vanity frames holding only backing board, narrow recesses fitted inside wardrobe doors, and one enormous triptych frame above the central dressing table, its three panels bare. Every one was built to hold a mirror, and every mirror is gone; faint clouded outlines on the backing boards are all that remain of the silver. [The frames do not all stay empty in quite the same way. In one, the backing board briefly shows a wardrobe door standing open after it has been closed; in another, the outline of an object appears on the board where nothing rests in the room itself.] [The central triptych occasionally fills, for a moment, with the dressing room shown empty, clean, and warmly lit, its doorway opening onto a corridor different from the one outside, before going bare again.] [Reaching into an empty frame touches only backing board. If someone deliberately reaches toward an object or person glimpsed filling one of the frames, however, their hand may sink in past the wrist and come back cold. What lies beyond resembles this room, but entry is not necessarily as simple—or as safe—as returning the same way.]
+This long, narrow dressing room is lined with fitted wardrobes, low upholstered benches, and dressing tables set beneath tall empty frames. Every frame in the room, cheval stands, hinged vanity frames, one enormous triptych above the central dressing table, was built to hold a mirror, and every mirror is gone, leaving only faint clouded outlines on the backing boards.
+
+- The wardrobes hold evening clothes from several different periods, carefully brushed and hung under linen covers. [A few garments are close to visitors' sizes, though none are exact.]
+- Shallow drawers hold gloves, combs, hatpins, cuff links, and small bottles of perfume gone dark with age.
+- [One backing board briefly shows a wardrobe door standing open after it's already been closed.]
+- [The central triptych occasionally fills, for a moment, with the room shown clean and warmly lit, its doorway opening onto a different corridor, before going bare again.]
+- [Reaching into an empty frame usually touches only backing board. Reaching deliberately toward something glimpsed filling one, however, may sink a hand in past the wrist and bring it back cold.]
+
 ### Room 016 - Clock Room
 
-The walls of this cramped clock room are covered from floor to ceiling with timepieces. Tall regulator clocks stand between crowded shelves of carriage clocks, mantel clocks, cuckoo clocks, and small brass alarm clocks, while dozens of round faces are fitted directly into the dark paneling. A narrow path winds through long-case clocks arranged in rows across the floor. Every clock is running, filling the room with the layered sound of ticking, clicking gears, creaking springs, and pendulums moving at slightly different speeds. None of them show quite the same time. Some are only minutes apart, while others differ by hours or have no recognizable numbers on their faces at all. Near the center stands a clockmaker’s bench scattered with tiny screwdrivers, files, springs, keys, bottles of oil, and trays of carefully labeled parts. An open repair ledger records when each clock was cleaned or adjusted, but some entries include a person’s name and an age instead of a date. [Several clocks react subtly to whoever stands nearest: a pendulum may slow, hands may turn backward, or a stopped mechanism may begin ticking again.] [A tall black long-case clock has two narrow dials beneath its face, one marked with ascending numbers and the other descending. Its case contains no pendulum; the polished brass backing reflects the viewer as slightly older or younger than they are.] [Turning this clock’s hands may alter the person reflected in the brass—and perhaps the person standing before it—but the degree, duration, and consequences are uncertain. The repair ledger suggests that previous adjustments did not always affect only age.] [If all the clocks ever strike together, they do not necessarily announce the same hour.]
+The walls of this cramped clock room are covered floor to ceiling with timepieces, tall regulator clocks standing between crowded shelves of carriage clocks, cuckoo clocks, and dozens of round faces fitted directly into the dark paneling. A narrow path winds through long-case clocks arranged in rows across the floor, every one of them running, none showing quite the same time.
 
-### Room 017 - Servants’ Bell Room
+- A clockmaker's bench near the center is scattered with tiny screwdrivers, files, springs, keys, and trays of carefully labeled parts.
+- An open repair ledger records when each clock was cleaned or adjusted. [Some entries list a person's name and an age instead of a date.]
+- [A pendulum may slow, hands may turn backward, or a stopped mechanism may begin ticking again near whoever stands closest.]
+- A tall black long-case clock has two narrow dials beneath its face, one ascending and one descending, with no pendulum inside its case. [Its polished brass backing reflects the viewer as slightly older or younger than they are.]
+- [If all the clocks ever strike together, they don't necessarily announce the same hour.]
 
-This narrow, windowless room once served as the center of the household’s bell system. A polished mahogany board covers nearly the whole of one wall, fitted with several rows of small brass bells. Beneath each hangs an ivory label naming a room: LIBRARY, MORNING ROOM, EAST BEDCHAMBER, NURSERY, CONSERVATORY, and dozens more. Some names are familiar, some refer to rooms the players have not found, and several labels have been scraped clean or replaced so many times that the ivory beneath them has worn thin. Fine wires rise from the bells into porcelain guides along the ceiling before disappearing into the walls. Most have gone slack with age, though a few remain drawn tight enough to hum faintly when touched. A single straight-backed chair faces the board beside a narrow writing desk equipped with pencils, spare labels, bell wire, and a heavy household ledger. Its pages record dates, times, which bell rang, and which servant answered it. Early entries are orderly and mundane—coal requested, bath drawn, tray collected—but later pages contain repeated calls from unoccupied rooms, bells that continued after their wires were cut, and instructions never to answer certain signals alone. [The most recent entries are written in several different hands and may be far newer than the condition of the room suggests.] [A bell can ring without warning, but it need not announce danger. It might direct attention toward another room, respond to something happening elsewhere in the house, or bear the label of the room the players presently occupy.] [One unlabeled bell has no visible wire. Its metal is warmer than the others, and the ledger contains no record of anyone ever answering it.]
+### Room 017 - Servants' Bell Room
+
+This narrow, windowless room once served as the center of the household's bell system. A polished mahogany board covers nearly the whole of one wall, fitted with rows of small brass bells, each labeled LIBRARY, MORNING ROOM, NURSERY, CONSERVATORY, and dozens more, several labels scraped clean or replaced so many times the ivory beneath has worn thin. Fine wires rise from the bells into porcelain guides along the ceiling before disappearing into the walls.
+
+- A single straight-backed chair faces the board beside a narrow writing desk stocked with pencils, spare labels, and bell wire.
+- A heavy household ledger on the desk records dates, times, which bell rang, and which servant answered it. [Early entries are orderly and mundane; later pages record repeated calls from unoccupied rooms and bells that continued ringing after their wires were cut.]
+- [The most recent entries are written in several different hands and may be far newer than the condition of the room suggests.]
+- One unlabeled bell has no visible wire at all. [Its metal runs warmer than the others, and the ledger contains no record of anyone ever answering it.]
 
 ### Room 018 - Billiard Room
 
-The billiard room is broad and comfortable, paneled in dark oak beneath a ceiling browned by decades of cigar smoke. Three green-shaded lamps hang low over a full-sized table, illuminating its worn green cloth while leaving the edges of the room in shadow. A perfectly ordinary game has been left unfinished: the balls are scattered across the table, one cue rests along the rail, and another has been propped against the corner nearest the door. A wooden scoreboard on the wall records an unremarkable score beneath two blank brass nameplates. Cue racks, shelves of chalk, and framed diagrams of difficult shots occupy one wall, while deep leather chairs and small smoking tables face the game from the other. One ashtray contains the collapsed remains of a cigar, and a shallow burn marks the leather arm beside it. The drinks cabinet holds cut-glass decanters, cloudy bottles, and rows of matching tumblers; two glasses have been poured, but only one has been touched. A narrow fireplace stands cold beneath a group portrait of several formally dressed men gathered around this same table. Their faces have darkened beneath the varnish, though the table, lamps, and arrangement of balls remain unusually clear. [The position shown in the portrait closely matches the unfinished game, but one additional ball appears beneath the table in the painting.] [A scorebook in a drawer records years of ordinary matches between household members and guests. The final pages continue long after several of the named players are known to have died.] [One leather chair bears a shallow impression as though someone has only just risen from it. If the players move the balls, cues, glasses, or scoreboard and later return, some—or all—may have been restored to the unfinished game.]
+The billiard room is broad and comfortable, paneled in dark oak beneath a ceiling browned by decades of cigar smoke. Three green-shaded lamps hang low over a full-sized table, illuminating a perfectly ordinary game left unfinished: balls scattered across the cloth, one cue resting along the rail, another propped against the corner nearest the door.
+
+- Cue racks, shelves of chalk, and framed diagrams of difficult shots occupy one wall; deep leather chairs and small smoking tables face the game from the other.
+- A wooden scoreboard records an unremarkable score beneath two blank brass nameplates.
+- The drinks cabinet holds cut-glass decanters and rows of matching tumblers; two glasses have been poured, but only one has been touched.
+- One ashtray contains the collapsed remains of a cigar, a shallow burn marking the leather chair arm beside it.
+- A narrow fireplace stands cold beneath a group portrait of formally dressed men gathered around this same table. [The game shown closely matches the unfinished one below, except for one additional ball visible beneath the table in the painting.]
+- [A scorebook in a drawer records years of ordinary matches, continuing long after several of the named players are known to have died.]
+- [One leather chair bears a shallow impression as though someone has only just risen from it. Moved balls, cues, or glasses may be restored to the unfinished game if the room is left and later revisited.]
 
 ### Room 019 - Linen Room
 
-A narrow linen room smells of lavender, dust, and damp plaster. Floor-to-ceiling wooden shelves line three walls, their edges labeled in faded ink for sheets, pillowcases, towels, tablecloths, and household uniforms. Most of the linens remain carefully folded, though age has yellowed the exposed edges and left rust-colored stains beneath a leaking pipe. A broad worktable occupies the center of the room with a wicker laundry basket tucked beneath it. On top sit a pair of heavy shears, a pincushion, and several torn sheets waiting to be mended. The deepest shelves hold black dresses, veils, armbands, and mourning clothes wrapped in tissue paper. A short rolling ladder provides access to the upper shelves, where spare blankets and dust-covered trunks have been packed tightly beneath the ceiling.
+A narrow linen room that smells of lavender, dust, and damp plaster, floor-to-ceiling wooden shelves labeled in faded ink for sheets, pillowcases, towels, and household uniforms. A broad worktable occupies the center of the room with a wicker laundry basket tucked beneath it.
+
+- A pair of heavy shears, a pincushion, and several torn sheets wait on the worktable to be mended.
+- Rust-colored stains spread beneath a leaking pipe near the deepest shelves.
+- The deepest shelves hold black dresses, veils, armbands, and mourning clothes wrapped in tissue paper.
+- A short rolling ladder reaches the upper shelves, where spare blankets and dust-covered trunks are packed tightly beneath the ceiling.
 
 ### Room 020 - Portrait Gallery
 
-A long portrait gallery stretches farther than the outer dimensions of the house should allow. Dark wooden paneling covers the lower walls, while paintings in gold-painted carved wooden frames crowd the space above from waist height to the ceiling. The subjects include generations of the family, household servants, children, pets, and formal groups posed in recognizable rooms throughout the manor. Small brass plaques identify some of them by name and date, though many are tarnished or missing. A faded runner follows the polished floor between narrow tables bearing cold lamps, empty vases, and bowls of dried flowers. Upholstered benches stand at intervals along the gallery, each positioned beneath a particularly large family portrait. The farther end remains visible as a darkened doorway, but never appears any closer until the visitors turn their backs on it.
+A long portrait gallery stretches farther than the outer dimensions of the house should allow. Dark wooden paneling covers the lower walls, while paintings in gold-carved frames crowd the space above from waist height to the ceiling, generations of family, servants, children, and pets.
+
+- Small brass plaques identify some subjects by name and date; many are tarnished or missing.
+- A faded runner follows the polished floor between narrow tables bearing cold lamps, empty vases, and bowls of dried flowers.
+- Upholstered benches stand at intervals, each positioned beneath a particularly large family portrait.
+- [The far end of the gallery remains visible as a darkened doorway that never appears any closer, no matter how far the visitors walk.]
 
 #### Main Floor and Formal Rooms
 
 ### Room 021 - Great Hall
 
-A grand reception hall occupies the center of the manor, broad enough to accommodate a large gathering without resembling a ballroom. Dark oak paneling rises halfway up walls covered in deep green patterned paper, and an ornate plaster ceiling hangs above a polished parquet floor. Two crystal chandeliers provide a pale, uneven light. A carved stone fireplace dominates one wall, flanked by high-backed chairs and small tables arranged for conversation. Tall windows stand opposite beneath heavy velvet curtains, while marble busts, potted palms, and narrow console tables fill the spaces between them. Several wide doorways lead toward the principal rooms of the house. Despite the furniture gathered around its edges, the center of the hall remains conspicuously empty, causing every footstep to carry through the room.
+A grand reception hall occupies the center of the manor, broad enough for a large gathering without resembling a ballroom. Dark oak paneling rises halfway up walls covered in deep green patterned paper beneath an ornate plaster ceiling, two crystal chandeliers casting a pale, uneven light over the polished parquet floor. A carved stone fireplace dominates one wall.
+
+- High-backed chairs and small tables are arranged for conversation near the fireplace.
+- Marble busts, potted palms, and narrow console tables fill the spaces between the tall curtained windows.
+- Several wide doorways lead toward the principal rooms of the house.
+- [The center of the hall stays conspicuously empty, so every footstep carries through the room.]
 
 ### Room 022 - Ballroom
 
-A formal ballroom stretches beneath an ornate plaster ceiling, its pale walls decorated with gilded molding and slender columns. Tall gilt frames stand empty between the windows, each holding nothing but a panel of dark velvet where a mirror should double the parquet floor and the crystal chandeliers hanging overhead. A shallow musicians’ alcove occupies one end of the room, furnished with straight-backed chairs, empty music stands, and a black grand piano with its lid closed. Faded velvet benches line the walls beneath the empty frames, leaving the center of the floor open for dancing. Heavy curtains frame the tall windows, while a pair of broad double doors connects the ballroom to the adjoining gallery and formal rooms.
+A formal ballroom stretches beneath an ornate plaster ceiling, pale walls decorated with gilded molding and slender columns. Tall gilt frames stand empty between the windows, each holding nothing but a panel of dark velvet where a mirror should double the parquet floor and the chandeliers overhead.
+
+- A shallow musicians' alcove at one end holds straight-backed chairs, empty music stands, and a black grand piano with its lid closed.
+- Faded velvet benches line the walls beneath the empty frames, leaving the center of the floor open for dancing.
+- A pair of broad double doors connects the ballroom to the adjoining gallery and formal rooms.
 
 ### Room 023 - Ballroom Gallery
 
-A narrow gallery overlooks the ballroom through a carved balustrade, furnished with small chairs for chaperones and several opera glasses still resting on the rail.
+A narrow gallery overlooks the ballroom through a carved balustrade, small chairs set along the rail for chaperones.
+
+- Several pairs of opera glasses still rest on the balustrade rail.
 
 ### Room 024 - Family Room
 
-A small, cozy family room sits behind an ordinary hollow-core door, looking as though it was last used sometime in the early 1990s. The walls are covered in pale wood paneling, and thick beige carpet softens every footstep. A bulky floral couch with rounded arms faces a wood-grain tube television on a low particleboard stand. Its cushions have sagged into three familiar seats, and a crocheted afghan in rust, brown, and cream lies folded across the back. Beside it stands a matching recliner, a brass floor lamp with a pleated shade, and a square end table crowded with an empty coffee mug, a cordless phone, a dog-eared TV Guide, and two remote controls held together with yellowing tape. A glass-topped coffee table rests on an oval braided rug. Beneath it are old magazines, a half-finished word-search book, and a shallow plastic bowl filled with hard candies fused into a single dusty mass.
+A small, cozy family room sits behind an ordinary hollow-core door, decorated as though it hasn't been touched since the early 1990s: pale wood paneling, thick beige carpet, a bulky floral couch facing a wood-grain tube television. The room smells faintly of warm electronics, stale popcorn, and old cigarette smoke.
 
-The television is connected to a black VHS player with a blinking **12:00** display. Several videotapes are stacked on top of the television, their handwritten labels reading *Christmas 1991*, *Sarah's Eighth Birthday*, *Beach Trip*, *School Play*, and *Grandma's House*. A plastic tape rewinder shaped like a red sports car sits beside them. More tapes fill a milk crate on the floor, mixed with recorded movies, Saturday-morning cartoons, and home videos whose labels have been crossed out and rewritten. Family photographs crowd the top of a short bookcase beside a ceramic lamp, softened by glare, turned faces, and badly timed flashes. The shelves below hold board games, jigsaw puzzles, paperback thrillers, and a row of encyclopedias. A fake ficus fills one corner, its fabric leaves grey with dust. The room smells faintly of warm electronics, stale popcorn, and old cigarette smoke.
+- A matching recliner and a brass floor lamp with a pleated shade stand beside a crowded end table: an empty coffee mug, a cordless phone, a dog-eared TV Guide, two remotes held together with yellowing tape.
+- A glass-topped coffee table rests on an oval braided rug, holding old magazines, a half-finished word-search book, and a shallow bowl of hard candies fused into one dusty mass.
+- Family photographs crowd the top of a short bookcase stocked with board games, jigsaw puzzles, paperback thrillers, and a row of encyclopedias.
+- A black VHS player blinks **12:00**, several labeled tapes stacked on top of it: *Christmas 1991*, *Sarah's Eighth Birthday*, *Beach Trip*, *School Play*, *Grandma's House*.
+- A plastic tape rewinder shaped like a red sports car sits beside a milk crate holding more tapes, movies, cartoons, and home videos with crossed-out, rewritten labels.
+- A fake ficus fills one corner, its fabric leaves grey with dust.
+- [One tape is different from the others. Its plain white label bears the name of an institute and the title *Rules of the House: An Orientation for New Initiates*, typed rather than handwritten.]
 
-One tape is different from the others. Its plain white label bears the name of an institute and the title *Rules of the House: An Orientation for New Initiates*, typed rather than handwritten. The VHS contains a copy of a black-and-white instructional film made in the 1950s. A clean-cut man in a dark suit stands before a closed curtain and addresses the camera in the measured, reassuring manner of an educational presenter. He welcomes the viewer as a new initiate and explains that understanding the rules of the house is necessary for their safety and for the success of the institute's work. The film assumes that the viewer has agreed to enter the house but has not yet been told what happens inside it.
+[The VHS contains a copy of a black-and-white instructional film made in the 1950s. A clean-cut man in a dark suit stands before a closed curtain and addresses the camera in the measured, reassuring manner of an educational presenter. He welcomes the viewer as a new initiate and explains that understanding the rules of the house is necessary for their safety and for the success of the institute's work. The film assumes that the viewer has agreed to enter the house but has not yet been told what happens inside it.
 
 The presentation gives the following rules, each accompanied by staged demonstrations, simple title cards, and diagrams of the house:
 
@@ -156,289 +310,542 @@ The presentation gives the following rules, each accompanied by staged demonstra
 5. **Do not take an unfamiliar route back.** Return by the same path whenever possible. A shorter route is not necessarily the route you used before.
 6. **If you become separated, remain where you are.** Do not search for your partner. Call out at regular intervals and wait for a manager to recover you.
 
-The presenter delivers every instruction with the calm cheerfulness of an ordinary workplace-safety film. In the demonstrations, smiling initiates make obvious mistakes and are corrected by their manager. The film never shows what happens to anyone who breaks a rule.
+The presenter delivers every instruction with the calm cheerfulness of an ordinary workplace-safety film. In the demonstrations, smiling initiates make obvious mistakes and are corrected by their manager. The film never shows what happens to anyone who breaks a rule.]
 
 ### Room 025 - Card Room
 
-Four baize-topped tables stand ready beneath low lamps, with boxed decks, ivory counters, score pads, and one unfinished hand laid faceup as though its players briefly stepped away.
+Four baize-topped tables stand ready beneath low lamps, in a dim, otherwise quiet room with doors at both ends.
+
+- Boxed decks and ivory counters sit stacked at each table's edge.
+- Score pads lie half-filled in neat columns.
+- [One table holds an unfinished hand laid faceup, as though its players briefly stepped away.]
 
 ### Room 026 - Smoking Room
 
-Dark leather furniture surrounds a tiled fireplace, while cabinets hold pipes, cigars, tobacco jars, and years of private correspondence tucked behind the humidor drawers.
+A small, windowless smoking room, dark leather furniture arranged around a tiled fireplace, the air still faintly sharp with old tobacco.
+
+- Cabinets hold pipes, cigars, and tobacco jars.
+- A humidor's drawers hide years of private correspondence tucked behind the cigars.
+- A single reading lamp stands beside the largest leather chair.
 
 ### Room 027 - Breakfast Room
 
-A bright, modest dining room contains a round table set for a simple morning meal, a newspaper ironed flat beside one plate, and a dumbwaiter hatch in the wall.
+A bright, modest dining room, tall windows letting in pale morning light over a round table set for a simple meal.
+
+- A newspaper, ironed flat, sits folded beside one plate.
+- A dumbwaiter hatch is set into one wall, its rope pull coiled beside it.
+- A sideboard holds a teapot, a toast rack, and a jar of marmalade gone solid.
 
 ### Room 028 - Map Room
 
-Large framed maps cover the walls above shallow cabinets filled with surveys, estate plans, railway charts, and hand-drawn routes through portions of Mourning Bluff Manor that no longer connect.
+A narrow, windowless room, large framed maps covering the walls above a row of shallow cabinets.
+
+- The cabinets hold surveys, estate plans, and railway charts.
+- Several hand-drawn routes trace portions of the house that no longer connect to anything.
+- A brass compass and a magnifying glass sit on the one small reading table.
 
 ### Room 029 - Cabinet of Curiosities
 
-Glass-fronted cases display fossils, shells, coins, mechanical novelties, devotional objects, and travel souvenirs, each cataloged with a small handwritten label naming what it is and where it came from. [One case, standing unlocked though the others are not, holds a slender ceremonial dagger. It is the only item in the entire room with no label at all.]
+A room lined with glass-fronted cases, each one packed with fossils, shells, coins, mechanical novelties, devotional objects, and travel souvenirs, every item cataloged with a small handwritten label naming what it is and where it came from.
+
+- Most cases are locked, their contents undisturbed for years.
+- Every label is written in the same meticulous hand.
+- [One case stands unlocked while all the others are not, holding a slender ceremonial dagger, the only item in the entire room with no label at all.]
 
 ### Room 030 - Chapel
 
-A private family chapel contains six short pews, a carved wooden altar, tarnished candlesticks, and memorial plaques recording names absent from the family histories elsewhere in the house.
+A small private chapel, six short pews facing a carved wooden altar beneath a narrow stained-glass window, the air cool and still.
+
+- Tarnished candlesticks stand unlit along the altar rail.
+- Memorial plaques line the side walls. [Several record names that appear nowhere else in the family's history.]
+- A collection plate and a stack of hymnals sit on the back pew.
 
 ### Room 031 - Cloakroom
 
-Rows of hooks, umbrella racks, boot scrapers, and narrow lockers fill this tiled room, with several coats still hanging beneath brass tags bearing their owners’ names.
+A tiled cloakroom just off a busier hallway, rows of hooks and narrow lockers lining both walls.
+
+- Several coats still hang beneath brass tags bearing their owners' names.
+- Umbrella racks and boot scrapers stand near the door.
+- A small shelf holds a few abandoned gloves and a single hat.
 
 ### Room 032 - Powder Room
 
-A compact washroom has a marble basin, patterned tiles, embroidered towels, and an empty wall frame, its glass long gone, surrounded by calling cards wedged carefully into the wood.
+A compact powder room, patterned tiles underfoot and a marble basin set into one wall, the air faintly perfumed.
+
+- Embroidered hand towels hang folded beside the basin.
+- An empty wall frame, its glass long gone, is wedged full of old calling cards.
+- A small dish holds a few dried lavender sprigs.
 
 ### Room 033 - Schoolroom
 
-Desks of several sizes face a slate board covered with half-erased lessons, while maps, copybooks, natural specimens, and a strict daily timetable line the walls.
+A plain schoolroom, desks of several sizes facing a slate board still covered in half-erased lessons.
+
+- Maps and a strict daily timetable are pinned along the walls.
+- Copybooks and natural specimens, pressed leaves, a bird's nest, fill a shelf near the window.
+- A ruler and a stick of chalk rest on the teacher's desk.
 
 ### Room 034 - Gun Room
 
-Locked wooden racks hold sporting guns and cleaning tools above cabinets of ammunition, shooting ledgers, and carefully tagged weapons with conspicuous empty spaces between them.
+A narrow gun room, locked wooden racks of sporting guns lining one wall above cabinets of ammunition and cleaning tools.
+
+- Shooting ledgers record decades of matches and tallies.
+- Each weapon carries a small tag naming its owner. [Conspicuous gaps break up the row, where guns are missing but the ledger doesn't say why.]
+- A gun-cleaning kit sits open on a side table, mid-use.
 
 ### Room 035 - Estate Office
 
-This practical office contains rent books, payroll records, maintenance requests, keys, and generations of architectural correspondence concerning additions that contractors insist they never built.
+A practical, cluttered office, shelves of rent books and payroll ledgers facing a broad desk stacked with maintenance requests.
+
+- A pegboard of labeled keys hangs beside the desk.
+- Generations of architectural correspondence fill one cabinet. [Several letters from contractors insist they never built the additions billed to them.]
+- A rolled set of blueprints leans in the corner, tied with string.
 
 ### Room 036 - Audience Chamber
 
-A severe reception room is arranged around one high-backed chair on a shallow platform, with benches for petitioners and a speaking tube mounted beside the seat.
+A severe reception room, a single high-backed chair set on a shallow platform at one end, plain benches facing it in rows.
+
+- A speaking tube is mounted on the wall beside the chair.
+- Heavy curtains block the only window.
+- [The floor in front of the platform is worn noticeably smoother than anywhere else in the room.]
 
 ### Room 037 - Trophy Room
 
-Hunting prints, antlers, fishing rods, cups, and faded ribbons crowd the walls, though several plaques commemorate competitions or expeditions for which no other record exists.
+A trophy room crowded wall to wall with hunting prints, mounted antlers, and faded ribbons.
+
+- Fishing rods and silver cups fill a glass case near the door.
+- Several plaques commemorate competitions or expeditions. [No other record anywhere in the house mentions them.]
+- A worn leather armchair faces the largest of the mounted heads.
 
 ### Room 038 - Sculpture Gallery
 
-White marble busts and small bronze figures occupy pedestals along a vaulted gallery, their identifying plaques stored together in a drawer rather than attached to the works.
+A vaulted gallery lined with pedestals, white marble busts and small bronze figures spaced evenly down its length.
 
-### Room 039 - Servants’ Hall
+- None of the sculptures carry identifying plaques; those are kept together in a drawer near the entrance instead.
+- A velvet rope, sagging between two stands, marks off the gallery's far end.
+- Tall windows along one side let in cold, even light.
 
-A long scrubbed table, plain chairs, duty boards, and shelves of chipped crockery furnish the communal room where the household staff once gathered between calls.
+### Room 039 - Servants' Hall
+
+A long communal room where staff once gathered between calls, a scrubbed wooden table running down the center with plain chairs on both sides.
+
+- Duty boards on the wall still list names beside half-erased tasks.
+- Shelves of chipped crockery line one wall near the door.
+- A worn deck of cards sits abandoned at one end of the table.
 
 #### Upper Floor and Private Rooms
 
 ### Room 040 - West Bedroom Corridor
 
-A wide, quiet hallway runs through the private west wing, with the doors to the master bedroom, boudoir, private bathroom, and family reading room arranged along either side.
+A wide, quiet hallway runs through the private west wing, doors spaced evenly along both walls under a line of dimmed wall sconces.
+
+- A narrow runner carpet softens the floor down the center of the hall.
+- A single small table holds a cold lamp and an empty card tray.
 
 ### Room 041 - Master Bedroom
 
-A vast canopied bed dominates a formal chamber furnished with matching wardrobes, a private fireplace, locked correspondence boxes, and portraits turned to face the wall.
+A vast canopied bed dominates this formal bedchamber, matching wardrobes standing along one wall and a private fireplace cold on the other.
+
+- Several locked correspondence boxes are stacked beside the writing desk.
+- Portraits around the room have all been turned to face the wall.
+- A heavy dressing gown hangs on a hook by the fireplace, as if just removed.
 
 ### Room 042 - Boudoir
 
-Silk-covered chairs, a chaise longue, perfume, private stationery, and concealed cabinets make this small sitting room feel more personal than the public rooms below.
+A small, intimate sitting room, silk-covered chairs and a chaise longue arranged near the window.
+
+- A writing table holds private stationery and a bottle of perfume gone dark with age.
+- Concealed cabinets are built into the paneling, their seams barely visible.
+- A single faded photograph sits propped on the mantel.
 
 ### Room 043 - Master Bathroom
 
-A deep copper tub stands on a raised tiled platform beside exposed pipes, a porcelain basin, folded towels, and separate taps whose engraved labels have been polished blank.
+A deep copper tub stands on a raised tiled platform, exposed pipes running up the wall beside a porcelain basin.
+
+- Folded towels sit stacked on a small shelf within reach of the tub.
+- The taps' engraved labels have been polished nearly blank from years of use.
+- A straight razor and shaving brush sit untouched on the basin's edge.
 
 ### Room 044 - Private Reading Room
 
-Low shelves, shaded lamps, footstools, and deeply worn chairs form a secluded family retreat stocked with novels, magazines, and books repeatedly repaired at the same pages.
+A secluded, low-ceilinged reading room, deeply worn chairs and footstools arranged around shaded lamps.
+
+- Low shelves hold novels and old magazines within easy reach of every chair.
+- Several books have been repaired at the same pages, over and over.
+- A reading glass and a pipe rest abandoned on the widest chair's arm.
 
 ### Room 045 - Rose Bedroom
 
-A smaller bedroom opposite the master chamber is decorated in faded rose silk and contains a writing desk, a narrow bed, and wardrobes filled with carefully preserved mourning clothes.
+A smaller bedroom, decorated in faded rose silk, a narrow bed set against the far wall beneath a shuttered window.
+
+- A writing desk sits near the door, its surface bare.
+- Wardrobes along one wall hold carefully preserved mourning clothes.
+- A single black-bordered handkerchief lies folded on the pillow.
 
 ### Room 046 - Sewing Room
 
-Worktables, dress forms, fabric bolts, baskets of mending, and drawers of buttons fill the final room at the closed end of the west corridor.
+A cluttered sewing room at the closed end of the west corridor, worktables and dress forms crowding most of the floor space.
+
+- Bolts of fabric lean against one wall beside baskets of mending.
+- Drawers of buttons, thread, and pins line a cabinet near the window.
+- A dress form stands draped in a half-finished gown, pins still in the seams.
 
 ### Room 047 - East Bedroom Corridor
 
-A longer hallway crosses the opposite wing, with guest rooms along one side and the children’s rooms, governess’s room, and sickroom along the other.
+A longer hallway crosses the opposite wing, guest room doors lining one side and facing rooms along the other.
+
+- A narrow table near the center holds a cold lamp and a stack of old linens.
+- [The floorboards creak in the same two spots no matter who crosses them.]
 
 ### Room 048 - Blue Guest Bedroom
 
-Blue damask, walnut furniture, and an untouched washstand make this room appear ready for occupation, although the luggage rack bears the marks of a recently removed trunk.
+A guest bedroom in blue damask and dark walnut furniture, the washstand untouched and the bed made tight.
+
+- A luggage rack by the door bears the clean outline of a recently removed trunk.
+- A folded guest towel and an unused bar of soap sit by the basin.
+- The wardrobe stands empty, its hangers evenly spaced.
 
 ### Room 049 - Green Guest Bedroom
 
-Green wallpaper and mahogany furniture surround a neatly made bed, a locked traveling desk, and a fireplace laid with wood but never lit.
+A guest bedroom in green wallpaper and mahogany furniture, the fireplace laid with wood that was never lit.
+
+- A locked traveling desk sits at the foot of the bed.
+- The bed is neatly made, its corners sharp and undisturbed.
+- [A small brass key hangs on a nail just inside the wardrobe, matching nothing in the room.]
 
 ### Room 050 - Yellow Guest Bedroom
 
-Pale yellow fabric covers the walls of a cheerful room whose matched luggage, folded clothes, and personal toiletries suggest that its expected guest never arrived.
+A cheerful guest bedroom in pale yellow fabric, matched luggage sitting open on the bed as though unpacking was interrupted.
 
-### Room 051 - Children’s Bedroom
+- Folded clothes and personal toiletries are laid out, untouched since.
+- A train ticket, never used, sits on the nightstand.
+- The window curtains are drawn halfway, as if left mid-motion.
 
-Two narrow beds stand beneath embroidered canopies beside a shared wardrobe, a bedside table, and shelves holding books intended for children older than those who slept here.
+### Room 051 - Children's Bedroom
+
+Two narrow beds stand beneath embroidered canopies, a shared wardrobe and bedside table between them.
+
+- Shelves hold books meant for children older than whoever slept here.
+- A row of stuffed animals sits propped along the headboard of one bed.
+- A nightlight, long since burned out, stands on the bedside table.
 
 ### Room 052 - Nursery
 
-Two iron cots, a rocking chair, feeding bottles, folded blankets, and a screened-off nurse’s bed occupy a quieter and younger room than the nearby playroom.
+A quiet nursery, two iron cots standing beneath a shuttered window beside a well-used rocking chair.
 
-### Room 053 - Governess’s Room
+- Folded blankets and feeding bottles sit ready on a low shelf.
+- A screened-off bed in the corner belonged to the nurse on duty.
+- A faded mobile hangs motionless over one of the cots.
 
-A narrow bedroom between the nursery and schoolroom contains sensible clothes, lesson plans, confiscated toys, and a locked drawer of unsent letters requesting release from employment.
+### Room 053 - Governess's Room
+
+A narrow bedroom between the nursery and schoolroom, sensible clothes hung neatly in a small wardrobe.
+
+- Lesson plans and a handful of confiscated toys sit on the writing desk.
+- A locked drawer holds a small stack of unsent letters. [Each one requests release from employment.]
+- A single candle, burned down to nothing, sits beside the bed.
 
 ### Room 054 - Sickroom
 
-An adjustable bed faces a small fireplace beside medicine cabinets, enamel basins, privacy screens, and a bedside chart whose final observations were recorded after the patient’s death.
+An adjustable bed faces a small, cold fireplace, privacy screens folded against the wall beside it.
+
+- Medicine cabinets and enamel basins stand within reach of the bed.
+- A bedside chart records observations in a steady hand. [The final entries are dated after the patient's recorded death.]
+- A glass of water, long evaporated to a ring of mineral dust, sits on the nightstand.
 
 ### Room 055 - Upper Landing
 
-A broad landing joins the east and west bedroom corridors around the main stair, furnished with benches, palms, and a directory amended in many different hands.
+A broad landing joins the east and west corridors around the main stair, potted palms standing in the corners.
 
-### Room 056 - Artist’s Studio
+- Benches line the balustrade, facing the stairwell.
+- A house directory on the wall has been amended in many different hands over the years.
 
-North-facing windows illuminate easels, plaster casts, pigments, unfinished canvases, and a long rack of portraits whose subjects have been painted out but not painted over.
+### Room 056 - Artist's Studio
+
+A studio lit by tall north-facing windows, easels and plaster casts scattered across the floor.
+
+- Jars of pigment and brushes sit hardened on a long worktable.
+- Unfinished canvases lean in stacks against the walls.
+- A long rack holds finished portraits. [Several subjects have been painted out, the canvas scraped back to blank, but never repainted over.]
 
 ### Room 057 - Trunk Room
 
-Travel trunks, hatboxes, steamer cases, carpetbags, and labeled luggage are stacked in narrow aisles, preserving fragments of journeys both completed and abandoned.
+A cramped room of stacked luggage, narrow aisles winding between travel trunks, hatboxes, and steamer cases.
+
+- Most pieces carry old destination labels from journeys long since finished.
+- A few trunks sit half-packed, as if a trip was abandoned partway through.
+- A single key ring hangs on a nail, fitting none of the locks nearby.
 
 ### Room 058 - Attic
 
-A broad unfinished space beneath the roof is divided by chimneys and timber braces, with furniture shrouded in sheets and narrow paths worn through the dust.
+A broad, unfinished attic beneath the roof, timber braces and brick chimneys dividing the space into uneven sections.
+
+- Furniture under dust sheets fills most of the floor, shapes only guessable from underneath.
+- Narrow paths are worn clean through the dust between the largest pieces.
+- A single bare bulb hangs from a rafter near the stairs.
 
 ### Room 059 - Garret
 
-This cramped room beneath the eaves contains a cot, a crate used as a desk, candle stubs, and pages of tiny writing fitted into every available margin.
+A cramped room beneath the eaves, barely tall enough to stand in at its center, a narrow cot pushed against the sloped wall.
+
+- A wooden crate serves as a desk, several candle stubs melted onto its surface.
+- [Loose pages are covered edge to edge in tiny handwriting, fitted into every available margin.]
 
 ### Room 060 - Bell Chamber
 
-Heavy bells of different sizes hang in a timber frame above coils of rope and maintenance platforms, though several ropes descend into parts of the house with no corresponding pull.
+A tall timber-framed chamber, heavy bells of different sizes hanging overhead above narrow maintenance platforms.
+
+- Coils of rope hang beside each bell, worn smooth from use.
+- [Several ropes descend into the house below with no corresponding pull station anywhere.]
 
 ### Room 061 - Mourning Room
 
-Black curtains, shrouded frames where mirrors were taken down rather than merely covered, memorial cards, preserved flowers, and chairs arranged for callers remain in place long after the family death this room commemorated.
+A room kept exactly as it was for mourning callers, black curtains drawn and chairs arranged to receive visitors who stopped coming long ago.
+
+- Shrouded frames mark where mirrors were taken down rather than simply covered.
+- Memorial cards and preserved flowers, brittle and colorless, sit arranged on a side table.
+- A black-bordered guest book lies open to its last signed page.
 
 #### Service Wing
 
 ### Room 062 - Kitchen
 
-A large working kitchen centers on a scarred preparation table surrounded by iron ranges, copper pans, knife racks, sinks, and speaking tubes connecting it to rooms above.
+A large working kitchen, iron ranges and deep sinks lining the walls around a scarred central preparation table.
+
+- Copper pans and knife racks hang within easy reach above the table.
+- Speaking tubes mounted near the door connect the kitchen to rooms above.
+- A basket of root vegetables sits half-sorted on the counter.
 
 ### Room 063 - Scullery
 
-Deep stone sinks, draining boards, pot racks, soap blocks, and stacks of dirty kitchenware crowd this hard-used room beside the kitchen.
+A hard-used scullery beside the kitchen, deep stone sinks and draining boards taking up most of the floor space.
 
-### Room 064 - Butler’s Pantry
+- Pot racks and soap blocks sit within reach of the sinks.
+- Stacks of dirty kitchenware wait, undisturbed, beside the nearest basin.
 
-Locked glass cabinets, warming shelves, serving trays, decanters, and a desk for household inventories line the narrow space between kitchen and dining rooms.
+### Room 064 - Butler's Pantry
+
+A narrow pantry between the kitchen and dining rooms, locked glass cabinets holding the household's good china.
+
+- Warming shelves and serving trays sit stacked near the door.
+- Decanters stand in a neat row on a side counter.
+- A small desk holds a ledger of household inventories, entries neat and current.
 
 ### Room 065 - Larder
 
-Marble shelves hold jars, tins, covered dishes, and hanging baskets, all arranged beneath labels written in a meticulous hand.
+A cool larder, marble shelves holding jars, tins, and covered dishes beneath hanging baskets.
+
+- Every shelf is labeled in the same meticulous handwriting.
+- [A few jars near the back have no labels at all.]
 
 ### Room 066 - Dairy
 
-A cool tiled room contains stone slabs, glazed crocks, butter paddles, cheesecloth, and shallow pans beneath gauze-covered vents.
+A cool, tiled dairy room, stone slabs lining the walls beneath gauze-covered vents.
+
+- Glazed crocks and butter paddles sit ready on the nearest slab.
+- Folded cheesecloth and shallow pans are stacked beside the door.
 
 ### Room 067 - Bakehouse
 
-A brick bread oven fills one wall above flour bins, cooling racks, kneading tables, and rows of loaf tins in many different sizes.
+A warm bakehouse, a brick bread oven built into one wall above rows of flour bins.
+
+- Cooling racks and kneading tables fill most of the remaining floor space.
+- Loaf tins in many sizes are stacked by the oven door.
+- A light dusting of flour covers every surface in the room.
 
 ### Room 068 - Stillroom
 
-Shelves of dried herbs, preserves, cordials, remedies, soaps, and household chemicals surround a worktable stained by years of careful preparation.
+A stillroom lined with shelves of dried herbs, preserves, and cordials, a worktable at the center stained dark from years of use.
+
+- Bottled remedies and bars of soap fill one corner of shelving.
+- A mortar and pestle sit beside a half-finished batch of something unlabeled.
 
 ### Room 069 - Game Larder
 
-Iron hooks, tiled drains, knife blocks, and marble shelves identify this as the room where hunted game was once hung and prepared.
+A cold room where hunted game was once hung and prepared, iron hooks spaced along a beam above a tiled drain.
+
+- Knife blocks and marble shelves line one wall.
+- A faint smell of iron lingers despite the room's long disuse.
 
 ### Room 070 - Cold Room
 
-Thick insulated walls and a heavy fitted door enclose rows of empty shelves, butcher’s hooks, and a thermometer fixed several degrees below freezing.
+A heavily insulated cold room behind a fitted door, rows of empty shelves lining the walls.
+
+- Butcher's hooks hang in a neat row from the ceiling beam.
+- [A thermometer by the door reads several degrees below freezing, with no obvious source of cold.]
 
 ### Room 071 - Wine Cellar
 
-Brick vaults hold dusty bottles, numbered bins, tasting tables, and locked cabinets of private vintages whose dates extend well beyond the house’s occupation.
+A brick-vaulted wine cellar, numbered bins of dusty bottles running the length of the room.
+
+- A small tasting table sits near the entrance, a few clean glasses still set out.
+- Locked cabinets hold private vintages. [Several dates on the labels extend well beyond the house's known occupation.]
 
 ### Room 072 - Laundry
 
-Copper boilers, deep sinks, washboards, mangles, and wheeled baskets fill the humid room, with household marks stitched into every piece awaiting washing.
+A humid laundry room, copper boilers and deep sinks lining one wall beside washboards and a heavy mangle.
+
+- Wheeled baskets of linens wait their turn near the door.
+- Every piece carries a small stitched mark identifying its household owner.
 
 ### Room 073 - Drying Room
 
-Ceiling racks, pulley lines, heated pipes, and wooden frames crowd this tall chamber, where sheets hang closely enough to conceal most of the room.
+A tall drying room, ceiling racks and pulley lines crowding the space above heated pipes running along the floor.
+
+- Hanging sheets crowd close enough together to conceal most of the room from the door.
+- A long wooden pole, used for raising and lowering the racks, leans in the corner.
 
 ### Room 074 - Flower Room
 
-Long sinks and stone-topped tables stand beneath shelves of vases, wire, ribbon, pruning knives, and ledgers assigning arrangements to particular rooms.
+A flower room, long sinks and stone-topped tables standing beneath shelves of vases and spools of wire.
+
+- Pruning knives and ribbon sit organized in a shallow drawer.
+- A ledger assigns specific flower arrangements to specific rooms throughout the house.
 
 ### Room 075 - Boot Room
 
-Benches, brushes, polish tins, wooden lasts, and pigeonholes of shoes line the walls, including several pairs still carrying soil from somewhere inside the house.
+A boot room just off a service entrance, benches and brushes lined up beneath rows of pigeonholed shoes.
+
+- Tins of polish and a few wooden lasts sit within reach of the benches.
+- [Several pairs of shoes still carry soil from somewhere inside the house, not from the grounds outside.]
 
 ### Room 076 - Lamp Room
 
-Metal shelves hold lanterns, spare chimneys, candle boxes, oil cans, wick trimmers, and a repair bench marked by dark circular burns. [Among the ordinary lanterns and oil chimneys sits a small lamp of a different kind entirely: a bulbous reservoir of ribbed blue-green glass, cradled in a bent-wire stand with two upright arms rising on either side, a turned wooden handle jutting from one flank on its own metal socket, and a brass collar on top fitted with a wick and a small knurled wheel for adjusting it. It is the sort of spirit lamp a physician or chemist keeps for clean, controlled flame rather than household light. Cold and unlit, it has no obvious reason to be shelved here.]
+A narrow lamp room, metal shelves holding lanterns, spare glass chimneys, and candle boxes from floor to ceiling.
+
+- Oil cans and wick trimmers sit organized along the lowest shelf.
+- A repair bench against the far wall is marked by dark circular burns.
+- [Among the ordinary lanterns sits a small lamp of a different kind entirely: a bulbous reservoir of ribbed blue-green glass, cradled in a bent-wire stand with two upright arms, a turned wooden handle jutting from one flank, and a brass collar fitted with a wick and a small knurled adjusting wheel, the sort of spirit lamp a physician or chemist keeps for clean, controlled flame rather than household light. Cold and unlit, it has no obvious reason to be shelved here.]
 
 ### Room 077 - Silver Vault
 
-A steel-lined strong room contains fitted shelves for plate, serving pieces, candlesticks, and cutlery, with each empty outline recorded in a nearby inventory.
+A steel-lined vault, fitted shelves built to hold plate, serving pieces, and candlesticks in exact outline.
 
-### Room 078 - Housekeeper’s Room
+- A nearby inventory book records every outline, filled or empty.
+- Several shelves sit conspicuously bare, their outlines unmatched by anything nearby.
 
-A tidy sitting room and office contains household keys, linen accounts, staff schedules, medicine cupboards, and notes on which rooms require special handling.
+### Room 078 - Housekeeper's Room
 
-### Room 079 - Butler’s Room
+A tidy sitting room doubling as an office, a board of labeled household keys hanging beside the desk.
 
-A narrow private room beside the pantry holds formal uniforms, wine books, seating plans, and a locked cabinet of objects quietly confiscated from guests.
+- Linen accounts and staff schedules sit stacked in neat piles.
+- A locked medicine cupboard stands in the corner.
+- [A handwritten note pinned above the desk lists which rooms require special handling, with no further explanation.]
 
-### Room 080 - Cook’s Room
+### Room 079 - Butler's Room
 
-A warm, comfortably cluttered bedroom contains recipe books, family photographs, strong spectacles, and notebooks documenting changes in the kitchen’s doors and passages.
+A narrow private room beside the pantry, formal uniforms hanging in a tall wardrobe against one wall.
 
-### Room 081 - Servants’ Dining Room
+- Wine books and old seating plans sit stacked on the desk.
+- A locked cabinet holds objects quietly confiscated from guests over the years.
 
-A plain dining room with a long table, dresser, clock, and framed rules of conduct stands ready for a meal that was never served.
+### Room 080 - Cook's Room
 
-### Room 082 - Servants’ Sitting Room
+A warm, comfortably cluttered bedroom, shelves of recipe books crowding the wall above a small writing desk.
 
-Mended chairs, a small stove, cheap novels, games, and personal photographs make this one of the few rooms arranged entirely for the staff’s comfort.
+- Family photographs are propped along the windowsill.
+- A pair of strong spectacles sits folded beside a half-finished letter.
+- [Several notebooks document changes in the kitchen's doors and passages over the years, tracked like a second set of recipes.]
 
-### Room 083 - Servants’ Corridor
+### Room 081 - Servants' Dining Room
 
-A narrow undecorated hallway runs behind the upper bedrooms, with small staff rooms opening from both sides and a service stair at the far end.
+A plain dining room, a long table set with simple plates beneath a ticking clock.
 
-### Room 084 - Senior Maid’s Room
+- A dresser along one wall holds spare crockery and cutlery.
+- A framed set of household rules of conduct hangs by the door.
 
-A private but modest bedroom contains an iron bedstead, washbasin, uniform press, household schedules, and a locked box of letters written by other servants.
+### Room 082 - Servants' Sitting Room
 
-### Room 085 - Footmen’s Room
+A small sitting room arranged entirely for staff comfort, mended chairs gathered around a modest stove.
 
-Two narrow beds, a shared wardrobe, boot brushes, white gloves, and uniform jackets occupy this carefully ordered room near the back staircase.
+- A shelf holds cheap novels and a few well-worn board games.
+- Personal photographs are pinned above the mantel, faces unfamiliar to the house's official history.
 
-### Room 086 - Housemaids’ Room
+### Room 083 - Servants' Corridor
 
-Three iron bedsteads fit tightly beneath the sloped ceiling beside washstands, mending baskets, and hooks holding identical dark dresses.
+A narrow, undecorated hallway behind the upper bedrooms, small staff room doors opening from both sides.
 
-### Room 087 - Kitchen Maids’ Room
+- A service stair sits at the far end, steeper than the main staircase.
+- A single bare bulb lights the hallway's entire length.
 
-The smallest shared bedroom contains two cots, flour-dusted shoes, aprons hung from nails, and a speaking tube connecting directly to the kitchen below.
+### Room 084 - Senior Maid's Room
+
+A modest private bedroom, an iron bedstead standing beneath a small window.
+
+- A washbasin and uniform press sit against the far wall.
+- Household schedules are pinned above a small writing desk.
+- [A locked box under the bed holds letters written by other servants. No key for it is anywhere in the room.]
+
+### Room 085 - Footmen's Room
+
+A carefully ordered room near the back staircase, two narrow beds standing on either side of a shared wardrobe.
+
+- White gloves and uniform jackets hang pressed and ready.
+- Boot brushes are lined up by size beside the door.
+
+### Room 086 - Housemaids' Room
+
+Three iron bedsteads fit tightly beneath a sloped ceiling, washstands wedged between them.
+
+- Mending baskets sit at the foot of each bed.
+- Identical dark dresses hang from hooks along the lowest part of the wall.
+
+### Room 087 - Kitchen Maids' Room
+
+The smallest shared bedroom in the house, two narrow cots pushed against opposite walls.
+
+- Flour-dusted shoes sit paired beneath each cot.
+- Aprons hang from nails beside the door.
+- A speaking tube connects directly down to the kitchen below.
 
 ### Room 088 - Back Staircase
 
-A steep enclosed stair coils through the service wing with landings at irregular intervals and doors whose labels do not always match the floors they open onto.
+A steep, enclosed staircase coiling through the service wing, landings appearing at irregular intervals.
+
+- Small painted labels mark each landing's floor. [The labels don't always match the floor the door actually opens onto.]
+- A single caged lightbulb lights each landing in turn.
 
 ### Room 089 - Main Cellar
 
-Stone chambers beneath the service wing contain shelving, barrels, broken furniture, and numbered bays corresponding to entries in the household stores ledger.
+Stone chambers beneath the service wing, numbered bays of shelving running the length of the room.
+
+- Barrels and broken furniture are pushed into the gaps between bays.
+- A household stores ledger, kept near the stairs, cross-references every numbered bay.
 
 ### Room 090 - Subcellar
 
-A second, older level lies beneath the cellar, its rough masonry interrupted by blocked arches and foundations belonging to structures predating Mourning Bluff Manor.
+A second, older level beneath the main cellar, rough masonry walls broken up by several blocked arches.
+
+- The foundations here predate the manor itself, stonework that doesn't match anything built above.
+- A few scattered tools, long rusted, lie half-buried near the base of one wall.
 
 ### Room 091 - Furnace Room
 
-A massive iron furnace occupies the center of a soot-blackened chamber surrounded by ducts, ash bins, gauges, and maintenance tools.
+A soot-blackened chamber, a massive iron furnace filling most of the center of the room.
+
+- Ducts and gauges run along the ceiling and walls.
+- Ash bins and maintenance tools are stacked within reach of the furnace door.
 
 ### Room 092 - Boiler Room
 
-Two riveted boilers stand amid pipes, valves, and pressure dials, supplying parts of the house despite having no visible fuel or active flame.
+Two riveted boilers stand among a tangle of pipes, valves, and pressure dials.
+
+- The dials all read within normal operating range. [No fuel source or flame is visible anywhere in the room.]
+- A maintenance logbook hangs from a nail, its last entry decades old.
 
 ### Room 093 - Computer Room
 
-Rusted pipe stubs still cap off along one wall, the last trace of whatever this room did before 1988, now sharing space with a second hasty office even smaller and more neglected than the Archive down the hall. A boxy beige computer and a dot-matrix printer sit side by side on a single folding table, a ribbon of perforated paper trailing from the printer's feed tray and pooling on the floor. [Neither machine is plugged into anything, and no outlet in the room could power them if they were. Even so, disturbing the room sometimes wakes the screen: a single blinking green cursor beside the word PRINT? waiting for an answer. Answering yes sets the printer chattering to life, dragging a single sheet through in fits and starts, and once it finishes, both machines go dark again until the next time someone disturbs the room.]
+The wall that once divided this room in two is gone entirely, taken out cleanly from corner to corner. The only trace of it left is a seam running across the ceiling and a break in the corner trim on either side, where the missing wall used to meet the outer walls, never patched or finished over. Two doors open into the single combined space, one at each end, each the original entrance to what used to be its own smaller room. Six desks, no two alike, folding tables, a dented steel office desk, a wood veneer desk dragged in from somewhere else, crowd the room with barely enough space to walk between them.
 
-[The printout reads:
+- The flooring doesn't match on either side of the ceiling seam: worn industrial carpet on one half, bare unfinished particleboard subfloor on the other.
+- Each desk holds its own boxy beige computer, and most have a dot-matrix printer beside them, ribbons of perforated paper trailing from feed trays and pooling on the floor.
+- A tangle of extension cords and power strips runs from every desk to a single retrofitted double outlet mounted crookedly on the wall, loaded well past anything it was ever rated for.
+- [Whatever stood directly above this room is gone the same way: no floor one story up, only open air rising past exposed joists and conduit, toward a height the rest of the house doesn't allow for a single story.]
+- [Two doors are set into the walls far overhead, each positioned directly above one of the two doors at floor level, opening onto nothing but that same open drop.]
+- [Disturbing the room sometimes wakes one screen at a time, never more than one, a single blinking green cursor beside the word PRINT? waiting for an answer.]
+
+[That the retrofitted outlet still carries current after all this time is hard to explain. What's harder to explain is that it doesn't seem to matter whether it does. Answering the cursor's prompt yes sets that machine's printer chattering to life, dragging a single sheet through in fits and starts, and once it finishes, the screen goes dark again until the next time someone disturbs the room.
+
+The printout reads:
 
 *Spent most of the week back through the shipping ledgers the historical society let us borrow. Confirmed Ward left Boston in late August 1903 and doesn't resurface in any domestic record until the first week of October, about six weeks unaccounted for. Customs stamps and hotel registries put him in Hamburg, then Vienna, then somewhere in the Carpathians that none of our gazetteers can agree on the spelling of. Nothing says why.*
 
@@ -448,27 +855,40 @@ Rusted pipe stubs still cap off along one wall, the last trace of whatever this 
 
 *That's where the letter cuts off. Next page is a grocery list in someone else's handwriting, so draw your own conclusions.*
 
-*I think this is it. This is the blade. Whatever's in that cabinet downstairs with no tag on it, I'd bet my last paycheck on it being the one Ward's writing about here.*
+*I think this is it. This is the blade. Whatever unlabeled knife is sitting somewhere in this house without a catalog tag, I'd bet my last paycheck on it being the one Ward's writing about here.*
 
-*Separate note, not related, but somebody needs to deal with this before I lose my mind: there is no cataloging the Cabinet of Curiosities. I have tried four times. The room does not hold a fixed inventory, items are not where I left them, and at least twice I have counted more objects in there than fit the room's square footage on the blueprints. I am done trying to make a list of something that will not stay still long enough to be listed.*]
+*Separate note, not related, but somebody needs to deal with this before I lose my mind: there's a room of curiosities in this house that I have tried to catalog four separate times and failed. It does not hold a fixed inventory, items are not where I left them, and at least twice I have counted more objects in there than its square footage on the blueprints allows. I am done trying to make a list of something that will not stay still long enough to be listed.*]
 
 ### Room 094 - Cistern
 
-A narrow iron walkway crosses a deep brick reservoir whose black surface sits perfectly still beneath arched supports.
+A narrow iron walkway crosses a deep brick reservoir, its black surface perfectly still beneath a row of arched supports.
+
+- A heavy iron valve wheel sits at one end of the walkway, rusted in place.
+- [The water's surface never ripples, even when something is dropped into it.]
 
 ### Room 095 - Root Cellar
 
-Wooden bins hold shriveled vegetables, seed sacks, preserves, and pale roots that have entered through the mortar and curled around the shelving.
+A root cellar lined with wooden bins of shriveled vegetables and seed sacks.
+
+- Jars of preserves sit stacked along the back wall.
+- [Pale roots have grown in through the mortar, curling around the shelving from behind.]
 
 ### Room 096 - Strong Room
 
-A reinforced chamber behind a combination door contains deed boxes, jewelry cases, emergency cash, and sealed packets assigned to particular members of the household.
+A reinforced chamber behind a heavy combination door, deed boxes and jewelry cases lining built-in shelves.
+
+- Several sealed packets are each assigned to a specific member of the household by name.
+- A small tin of emergency cash sits untouched near the door.
 
 ### Room 097 - Archive
 
-A cramped, dated office that feels stranded in 1988: water-stained ceiling tiles, worn industrial carpet, a single wood veneer desk pushed into the corner, a dead desk lamp and a coffee mug gone dry and cracked at the bottom sitting on its surface. An old drip coffee maker sits on a filing cabinet nearby, its carafe stained brown almost to black, a skin of ancient grounds crusted in the basket above it. Along one wall stands a row of flat blueprint cabinets, wide shallow drawers built to hold architectural drawings without folding them. The wall opposite is lined floor to ceiling with metal filing cabinets, every drawer stuffed with documents. [Nearly every folder belongs to the same set of studies, conducted somewhere in the house: logs of sleep, temperature, sound, and disposition, observation after observation, page after page, and not one of them reaches a conclusion. One folder's entries grow shorter and more erratic toward the end, the handwriting increasingly hurried, before stopping mid-sentence partway down an otherwise blank page. Mixed in among the newer files are a few much older items that don't belong to this office at all: a water-stained folder of membership rolls and meeting minutes for something recorded only as the Fellows, and a handful of duty rosters tracking five people identified only as Readers, sleep observed, appetite observed, disposition observed, the same three words for years, no names ever given.]
+A cramped office that feels stranded in 1988: water-stained ceiling tiles, worn industrial carpet, a single wood veneer desk pushed into the corner. Metal filing cabinets line one wall floor to ceiling, every drawer stuffed with documents.
 
-[A corkboard beside the door holds a short run of typed memos, growing more clipped and less explained as they go on, reminding staff not to walk the halls alone, and finally announcing, without further comment, that the buddy system is now mandatory for anyone leaving this room.]
+- An old drip coffee maker sits on a filing cabinet nearby, its carafe stained nearly black.
+- Flat blueprint cabinets along one wall hold architectural drawings without folding them.
+- A dead desk lamp and a coffee mug gone dry and cracked at the bottom sit on the desk's surface.
+- [Nearly every folder belongs to the same set of studies, conducted somewhere in the house: logs of sleep, temperature, sound, and disposition, observation after observation, never reaching a conclusion. A few older items don't belong to this office at all: a water-stained folder of membership rolls and meeting minutes for something recorded only as the Fellows, and duty rosters for five people identified only as Readers.]
+- [A corkboard beside the door holds a short run of typed memos, growing more clipped and less explained as they go on, finally announcing, without further comment, that the buddy system is now mandatory for anyone leaving this room.]
 
 [The top drawer of the desk holds a single diary, far older than anything else in the room. Three entries near its end matter more than the rest:
 
@@ -480,21 +900,36 @@ A cramped, dated office that feels stranded in 1988: water-stained ceiling tiles
 
 ### Room 098 - Séance Room
 
-A modest circular chamber contains a plain table, seven mismatched chairs, blackout curtains, cabinets of investigative equipment, and transcripts from sittings held throughout the house.
+A modest circular chamber, a plain table surrounded by seven mismatched chairs beneath heavy blackout curtains.
+
+- Cabinets along the wall hold investigative equipment: bells, slates, and recording devices.
+- Stacks of transcripts document sittings held throughout the house.
+- [One chair is pulled slightly farther from the table than the rest.]
 
 ### Room 099 - Walled-Up Chamber
 
-A section of newer brick conceals a finished room with faded wallpaper, a cold fireplace, and the marks of furniture that was removed before the entrance was sealed.
+A finished room behind a section of newer brick, faded wallpaper and a cold fireplace barely visible once the opening is made.
+
+- Clean rectangles on the floor mark where furniture once stood before it was removed.
+- [No dust has settled anywhere in the room, despite the bricked entrance showing every sign of having stood for decades.]
 
 #### The Basement
 
 ### Room 100 - Spiral Stair Room
 
-A tall, narrow room rises through several stories of the house, its plaster walls bare except for faint horizontal marks where floors or galleries may once have joined them. A freestanding spiral staircase of black-painted metal occupies the center of the room. Its pierced iron steps wind tightly around a slender central column, climbing from the tiled floor toward a circular opening lost in the darkness above. The staircase touches no wall and has no visible braces, yet it remains perfectly rigid beneath a person's weight. Rust freckles the undersides of the steps and the curling handrail, while the surfaces touched by hands and shoes have been worn smooth. At the foot of the column, wedged into the narrow gap beneath the lowest curl of the stair, a second door is set flush into the tiled floor itself: a slab of pitted iron, scarred with old tool-marks where someone once tried and failed to force it, showing no handle, keyhole, or hinge from this side. [Every account of this door, the Fellows' own papers included, insists it has never opened under its own power, through force, or through anything short of the ritual it was built for. There is exactly one exception. When a dark Major Arcana depicting the World is drawn at a Reader's table, the House Layer it creates may seize on this door specifically: the seam described below appears regardless of how many of the five objects have actually been gathered, and the door opens for as long as that Layer persists. This is not the true working completing itself, only the house reaching through a crack the card has opened. Treat it as volatile and temporary, not as evidence the ritual's real requirements have changed.] [Outside of that exception, the door does not answer to force, tools, or persuasion. The moment all five foreign, out-of-place objects described in the spellbook are brought together within reach of it, a seam appears along one edge where none was visible before, and the door opens onto a stair leading down toward the Lower Circle.]
+A tall, narrow room rises through several stories of the house, its plaster walls bare except for faint horizontal marks where floors or galleries may once have joined them. A freestanding spiral staircase of black-painted metal occupies the center of the room, pierced iron steps winding tightly around a slender central column, climbing from the tiled floor toward a circular opening lost in the darkness above. It touches no wall and has no visible braces, yet remains perfectly rigid beneath a person's weight.
+
+- Rust freckles the undersides of the steps and the curling handrail, while the surfaces touched by hands and shoes have been worn smooth.
+- Four doors stand at ground level, one in each wall, but there are no landings corresponding to them and no other visible entrances anywhere overhead.
+- At the foot of the column, wedged into the narrow gap beneath the lowest curl of the stair, a second door is set flush into the tiled floor itself: a slab of pitted iron, scarred with old tool-marks, showing no handle, keyhole, or hinge from this side.
+
+[Every account of this door, the Fellows' own papers included, insists it has never opened under its own power, through force, or through anything short of the ritual it was built for. There is exactly one exception. When a dark Major Arcana depicting the World is drawn at a Reader's table, the House Layer it creates may seize on this door specifically: the seam described below appears regardless of how many of the five objects have actually been gathered, and the door opens for as long as that Layer persists. This is not the true working completing itself, only the house reaching through a crack the card has opened. Treat it as volatile and temporary, not as evidence the ritual's real requirements have changed.]
+
+[Outside of that exception, the door does not answer to force, tools, or persuasion. The moment all five foreign, out-of-place objects described in the spellbook are brought together within reach of it, a seam appears along one edge where none was visible before, and the door opens onto a stair leading down toward the Lower Circle.]
 
 Beyond the iron door, however it opened, a second spiral staircase winds downward, cut from the stone of the house's original foundation rather than built onto it, its steps worn into shallow curves by feet long since gone. It ends in a circular stone room, low-ceilinged, where a narrower stair is cut directly into the thickness of the wall itself, spiraling down again along the room's inside edge rather than standing free in its center. [Nothing in the Fellows' papers names this circular room. It may not have had a name before Ward's circle found it.] At the bottom of that second descent lies the Lower Circle itself: the ritual room, a chamber standing directly beneath the Tower and nowhere else, its position confirmed by nothing visible but felt immediately by anyone who enters it. [As of the end of the first session, this entire descent, iron door, stone stair, circular room, and the Lower Circle below it, is still standing open, held by the dark World card's House Layer from that session. GM judgment call for when, if ever, it reseals.]
 
-Four doors stand at ground level, one in each wall, but there are no landings corresponding to them and no other visible entrances anywhere overhead. Looking between the open treads reveals the whole drop to the floor no matter how high someone has climbed. [The ascent lasts longer than the height of the room should allow. The doors below grow smaller for a time, then appear close beneath the climber again without the staircase turning back on itself.] [A person looking down may see someone ascending several turns below even when no one else entered the room. The figure keeps pace, stopping when they stop, but disappears if addressed directly.] [The opening at the top may lead to an upper floor, a basement chamber, or this same room through one of its ground-level doors. Descending is not guaranteed to return a climber to the floor from which they began.] [This room does not keep a fixed place in the house. A hallway or doorway that led here once may lead somewhere else entirely on a later visit, and there is no reliable way to seek the room out on purpose.]
+Looking between the open treads of the main spiral reveals the whole drop to the floor no matter how high someone has climbed. [The ascent lasts longer than the height of the room should allow. The doors below grow smaller for a time, then appear close beneath the climber again without the staircase turning back on itself.] [A person looking down may see someone ascending several turns below even when no one else entered the room. The figure keeps pace, stopping when they stop, but disappears if addressed directly.] [The opening at the top may lead to an upper floor, a basement chamber, or this same room through one of its ground-level doors. Descending is not guaranteed to return a climber to the floor from which they began.] [This room does not keep a fixed place in the house. A hallway or doorway that led here once may lead somewhere else entirely on a later visit, and there is no reliable way to seek the room out on purpose.]
 
 **NOTE:** Look into actual houses that have 100 rooms, what types of rooms are they? What do they look like?
 
